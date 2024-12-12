@@ -3,7 +3,6 @@ title: ""
 toc: false
 ---
 
-
 <style>
   footer {
     position: fixed;
@@ -27,7 +26,6 @@ toc: false
     transform: translateY(-50px); /* Bring footer into view */
   }
 </style>
-
 <script>
   document.addEventListener("scroll", function () {
     const footer = document.querySelector("footer");
@@ -43,14 +41,12 @@ toc: false
   });
 </script>
 
-<footer>
-  Chen Lab | Westlake © 2024
-</footer> 
+<footer>Chen Lab \| Westlake © 2024</footer>
 
 ## We are recruiting!
 
-We are seeking graduate students and postdocs to study the neurobiology of pain, opioids, and anesthesia. Visiting scholars who can stay in the lab for more than two years are also welcome. Positions for visiting students are limited, but qualified candidates planning to join the lab for Ph.D. training are encouraged to apply.
+We are seeking graduate students and postdocs to study the neurobiology of pain, opioids, and anesthesia. First-year Ph.D. students at Westlake University are welcome to select our lab for rotations. Visiting scholars who can commit to staying in the lab for more than two years are also encouraged to apply. Positions for visiting students are limited, but qualified candidates planning to pursue Ph.D. training in our lab are strongly encouraged to apply.
 
-Our lab is situated in a vibrant, interdisciplinary, and collaborative research environment at [Westlake University](https://www.westlake.edu.cn/). If you are interested in applying, please email me with a description of your research experience and interests, along with your CV and contact information for references.
+Our lab is situated in a vibrant, interdisciplinary, and collaborative research environment at [Westlake University](https://www.westlake.edu.cn/), with opportunities for international collaborations to broaden research perspectives. If you are interested in applying, please email me with a description of your research experience and interests, along with your CV and contact information for references.
 
 ![](images/ad_team.png){fig-alt="Ad" width="500" fig-align="center"}
