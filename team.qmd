@@ -57,6 +57,9 @@ toc: false
 <p><a href="files/CV_Chen_updated_12042024.pdf" style="text-decoration: none; color: blue;" download> Download CV </a></p>
 :::
 
+<!-- Commenting out everything from here -->
+
+<!--
 ## Research Assistant
 
 ## Postdoctoral Fellows (Examples now)
@@ -76,3 +79,5 @@ toc: false
 ## PhD Students
 
 ## Visiting students
+
+-->
