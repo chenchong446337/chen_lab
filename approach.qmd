@@ -102,26 +102,27 @@ Paired recording of connected basket cells (BC) and Purkinje cells (PC) in the c
 
 Viral tracing is a powerful technique to map neural circuits by utilizing genetically engineered viruses to label neurons and their connections. Anterograde tracing labels downstream targets by transporting the virus from the cell body along axons to synaptic terminals, revealing outputs of specific neurons. Retrograde tracing, on the other hand, maps inputs by transporting the virus from axon terminals back to the originating cell bodies, identifying presynaptic neurons. Advanced viral tools, such as rabies and AAV vectors, enable cell-type-specific tracing, functional manipulation, and circuit mapping at single-neuron resolution, providing insights into the organization and connectivity of complex neural networks.
 
-::: {style="display: flex; justify-content: center; gap: 20px; align-items: flex-start; margin-top: 20px;"}
-<!-- First Image -->
+::: {style="display: flex; flex-direction: column; align-items: center; margin-top: 20px;"}
 
-<figure style="text-align: center; width: 50%;">
+<div style="display: flex; justify-content: center; gap: 20px; align-items: flex-start;">
+  <!-- First Image -->
+  <figure style="text-align: center; width: 45%;">
+    <img src="images/An_tracing.png" alt="AAV-mediated anterograde tracing" style="width: 100%; height: auto;"/>
+  </figure>
 
-<img src="images/An_tracing.png" alt="Image 1 description" style="width: 100%; height: auto;"/>
-  <figcaption style="font-size: 14px; color: gray;">
-  AAV-mediated anterograde tracing and rabies virus-mediated retrograde tracing.
-  </figcaption>
+  <!-- Second Image -->
+  <figure style="text-align: center; width: 45%;">
+    <img src="images/Re_tracing.png" alt="Rabies virus-mediated retrograde tracing" style="width: 100%; height: auto;"/>
+  </figure>
+</div>
 
-</figure>
+<figcaption style="text-align: center; font-size: 14px; color: gray; margin-top: 10px;">
+AAV-mediated anterograde tracing (left) and rabies virus-mediated retrograde tracing (right).
+</figcaption>
 
-<!-- Second Image -->
-
-<figure style="text-align: center; width: 50%;">
-
-<img src="images/Re_tracing.png" alt="paired recording" style="width: 100%; height: auto;"/>
-
-</figure>
 :::
+
+
 
 **Activity-dependent genetic labeling**
 
