@@ -64,7 +64,7 @@ The lab mainly use miniscope for Ca2+ imaging experiments. The miniscope is a co
 
 Your browser does not support the video tag. Try downloading it instead: <a href="videos/combined_video_D6.mp4">Download the video</a>. </video>
   <figcaption style="font-size: 14px; color: gray;">
-  In vivo calcium imaging of neuronal activity in freely moving mice.
+  In vivo calcium imaging of neuronal activity in freely moving mice (Chen et al., 2024).
   </figcaption>
 </figure>
 
@@ -92,7 +92,7 @@ Whole-cell patch clamp is a technique to study ion channel activity and cellular
 </div>
 
 <figcaption style="text-align: center; font-size: 14px; color: gray; margin-top: 10px;">
-Paired recording of connected basket cells (BC) and Purkinje cells (PC) in the cerebellum, showing both their activity and how BC firing influences PC firing.
+Paired recording of connected basket cells (BC) and Purkinje cells (PC) in the cerebellum, showing both their activity and how BC firing influences PC firing (Chen et al., 2017a,b).
 </figcaption>
 
 :::
@@ -117,7 +117,7 @@ Viral tracing is a powerful technique to map neural circuits by utilizing geneti
 </div>
 
 <figcaption style="text-align: center; font-size: 14px; color: gray; margin-top: 10px;">
-AAV-mediated anterograde tracing (left) and rabies virus-mediated retrograde tracing (right).
+AAV-mediated anterograde tracing (left) and rabies virus-mediated retrograde tracing (right) (Chen et al., 2024).
 </figcaption>
 
 :::
@@ -135,7 +135,7 @@ Activity-dependent tagging methods, such as TRAP (Targeted Recombination in Acti
 
 <img src="images/TRAP.png" alt="TRAP" style="width: 100%; height: auto;"/>
   <figcaption style="font-size: 14px; color: gray;">
-  Using TRAP2 mice to label neurons active during pain stimulation.
+  Labeling neurons active during pain stimulation using TRAP2 mice (Chen et al., 2023).
   </figcaption>
 
 </figure>
@@ -152,6 +152,10 @@ Single-cell RNA sequencing (scRNA-seq) is a cutting-edge method for analyzing ge
 
 <img src="images/RNA.png" alt="RNA_seq" style="width: 100%; height: auto;"/>
 
+  <figcaption style="font-size: 14px; color: gray;">
+  Classifying Pn neurons based on their transcriptomic profiles (Chen et al., 2024).
+  </figcaption>
+
 </figure>
 :::
 
@@ -166,7 +170,7 @@ Optogenetics and chemogenetics are advanced tools for manipulating neuronal acti
 
 <img src="images/Opto.png" alt="RNA_seq" style="width: 100%; height: auto;"/>
   <figcaption style="font-size: 14px; color: gray;">
- Manipulating neuronal activity using optogenetics in both in vivo and in vitro settings.
+ Manipulating neuronal activity using optogenetics in both in vivo and in vitro settings (Chen et al., 2024).
   </figcaption>
 
 </figure>
@@ -199,6 +203,9 @@ Graph theory is a branch of mathematics focused on studying graphs, which consis
 <figure style="text-align: center; width: 100%;">
 
 <img src="images/network.png" alt="network" style="width: 100%; height: auto;"/>
+  <figcaption style="font-size: 14px; color: gray;">
+    Employing graph theory to systematically characterize the architecture of a comprehensive pain network (Chen et al., 2023).
+  </figcaption>
 
 </figure>
 :::
@@ -214,7 +221,7 @@ Machine learning (ML) and deep learning (DL) are transformative tools in neurosc
 
 <img src="images/machinelearning.png" alt="ML" style="width: 100%; height: auto;"/>
   <figcaption style="font-size: 14px; color: gray;">
-    Neuron classification based on their activity.
+  Classifying neurons based on their activity using machine learning algorithms (Chen et al., 2024).
   </figcaption>
 
 </figure>
