@@ -1,0 +1,230 @@
+---
+title: ""
+toc: false
+---
+
+<style>
+  footer {
+    position: fixed;
+    bottom: -50px;
+    left: 0;
+    width: 100%; /* Ensure the footer spans the entire page */
+    background-color: black;
+    text-align: left;
+    padding: 10px 0;
+    color: white;
+    font-size: 14px;
+    border-top: 1px solid rgba(0, 0, 0, 0.1);
+    transition: transform 0.5s ease-in-out;
+  }
+
+  body {
+    margin: 0; /* Remove any default margin that might interfere */
+  }
+
+  footer.show {
+    transform: translateY(-50px); /* Bring footer into view */
+  }
+</style>
+<script>
+  document.addEventListener("scroll", function () {
+    const footer = document.querySelector("footer");
+    const scrollHeight = document.documentElement.scrollHeight;
+    const scrollPosition = window.innerHeight + window.scrollY;
+
+    // Check if the user has scrolled to the bottom
+    if (scrollPosition >= scrollHeight) {
+      footer.classList.add("show");
+    } else {
+      footer.classList.remove("show");
+    }
+  });
+</script>
+
+<footer>Chen Lab \| Westlake © 2024</footer>
+
+
+## Experimental approaches
+
+**In vivo Ca2+ imaging**
+
+The lab mainly use miniscope for Ca2+ imaging experiments. The miniscope is a compact, head-mounted fluorescence microscope designed for in vivo Ca²⁺ imaging in freely moving mice. It enables real-time observation of neuronal activity at the cellular level, offering high spatial and temporal resolution. The miniscope's lightweight and portable design minimizes behavioral interference, making it ideal for studying neural circuits in naturalistic settings. It allows for long-term recordings in freely behaving animals, capturing the dynamics of neural activity during complex tasks.
+
+|  |  |
+|------------------------------------|------------------------------------|
+| <video controls autoplay muted loop style="width: 2in; height: auto; border: 1px solid #ccc;"> <source src="videos/output.mp4" type="video/mp4"> Your browser does not support the video tag. Try downloading it instead: [Download the video](videos/output.mp4). </video> | <img src="images/ACC_ca.png" alt="Miniscope Surgery" style="width: 5.2in; height: auto;"/> |
+
+<!-- for the behavior video -->
+
+<figure style="text-align: left;">
+
+<video controls autoplay muted loop style="width: 750px; height: auto;">
+
+<source src="videos/combined_video_D6.mp4" type="video/mp4">
+
+Your browser does not support the video tag. Try downloading it instead: <a href="videos/combined_video_D6.mp4">Download the video</a>. </video>
+  <figcaption style="font-size: 14px; color: gray;">
+  In vivo calcium imaging of neuronal activity in freely moving mice (Chen et al., 2024).
+  </figcaption>
+</figure>
+
+**Electrophysiology (paired recording)**
+
+Whole-cell patch clamp is a technique to study ion channel activity and cellular electrical properties. Paired whole-cell recordings, where two cells are simultaneously patched, allow precise analysis of synaptic transmission and connectivity. This approach enables researchers to measure pre- and postsynaptic responses in real-time, offering insights into circuit dynamics, synaptic strength, and plasticity. Advantages include high temporal and spatial resolution, the ability to control intracellular environments, and direct access to synaptic interactions. It is particularly valuable in neuroscience for investigating functional connectivity and testing hypotheses about neural circuit mechanisms.
+
+::: {style="display: flex; flex-direction: column; align-items: center; margin-top: 20px;"}
+
+<div style="display: flex; justify-content: center; gap: 20px; align-items: flex-start;">
+  <!-- First Image -->
+  <figure style="text-align: center; width: 28%;">
+    <img src="images/BC_firing.png" alt="Image 1 description" style="width: 100%; height: auto;"/>
+  </figure>
+
+  <!-- Second Image -->
+  <figure style="text-align: center; width: 32%;">
+    <img src="images/pair.png" alt="paired recording" style="width: 100%; height: auto;"/>
+  </figure>
+
+  <!-- Third Image -->
+  <figure style="text-align: center; width: 34%;">
+    <img src="images/animation.gif" alt="Image 2 description" style="width: 100%; height: auto;"/>
+  </figure>
+</div>
+
+<figcaption style="text-align: center; font-size: 14px; color: gray; margin-top: 10px;">
+Paired recording of connected basket cells (BC) and Purkinje cells (PC) in the cerebellum, showing both their activity and how BC firing influences PC firing (Chen et al., 2017a,b).
+</figcaption>
+
+:::
+
+
+**Viral neuronal tracing**
+
+Viral tracing is a powerful technique to map neural circuits by utilizing genetically engineered viruses to label neurons and their connections. Anterograde tracing labels downstream targets by transporting the virus from the cell body along axons to synaptic terminals, revealing outputs of specific neurons. Retrograde tracing, on the other hand, maps inputs by transporting the virus from axon terminals back to the originating cell bodies, identifying presynaptic neurons. Advanced viral tools, such as rabies and AAV vectors, enable cell-type-specific tracing, functional manipulation, and circuit mapping at single-neuron resolution, providing insights into the organization and connectivity of complex neural networks.
+
+::: {style="display: flex; flex-direction: column; align-items: center; margin-top: 20px;"}
+
+<div style="display: flex; justify-content: center; gap: 20px; align-items: flex-start;">
+  <!-- First Image -->
+  <figure style="text-align: center; width: 45%;">
+    <img src="images/An_tracing.png" alt="AAV-mediated anterograde tracing" style="width: 100%; height: auto;"/>
+  </figure>
+
+  <!-- Second Image -->
+  <figure style="text-align: center; width: 45%;">
+    <img src="images/Re_tracing.png" alt="Rabies virus-mediated retrograde tracing" style="width: 100%; height: auto;"/>
+  </figure>
+</div>
+
+<figcaption style="text-align: center; font-size: 14px; color: gray; margin-top: 10px;">
+AAV-mediated anterograde tracing (left) and rabies virus-mediated retrograde tracing (right) (Chen et al., 2024).
+</figcaption>
+
+:::
+
+
+
+**Activity-dependent genetic labeling**
+
+Activity-dependent tagging methods, such as TRAP (Targeted Recombination in Active Populations), are cutting-edge tools for labeling and studying neurons activated during specific experiences or stimuli. TRAP uses a combination of an immediate early gene promoter, such as Fos, and CreER technology to drive conditional gene expression in active neurons upon exposure to tamoxifen. This allows for precise temporal control of labeling, capturing neurons based on their activity at specific moments. TRAP is invaluable for dissecting functional circuits, enabling researchers to manipulate, trace, or analyze activated neuronal populations, shedding light on the neural basis of behaviors, memory, and sensory processing.
+
+::: {style="display: flex; justify-content: center; gap: 20px; align-items: flex-start; margin-top: 20px;"}
+<!-- First Image -->
+
+<figure style="text-align: center; width: 70%;">
+
+<img src="images/TRAP.png" alt="TRAP" style="width: 100%; height: auto;"/>
+  <figcaption style="font-size: 14px; color: gray;">
+  Labeling neurons active during pain stimulation using TRAP2 mice (Chen et al., 2023).
+  </figcaption>
+
+</figure>
+:::
+
+**Single-cell RNA seq and RNAscope**
+
+Single-cell RNA sequencing (scRNA-seq) is a cutting-edge method for analyzing gene expression in individual cells, providing detailed insights into cellular diversity, gene networks, and functional states. By capturing and sequencing RNA from single cells, it enables the discovery of novel cell types and understanding of dynamic biological processes. In situ hybridization (ISH) is a complementary technique used to validate scRNA-seq findings by visualizing specific RNA transcripts in their spatial context within tissues. ISH provides direct evidence of gene expression at the cellular level, linking molecular data to anatomical structures and ensuring the accuracy of transcriptomic analyses.
+
+::: {style="display: flex; justify-content: center; gap: 20px; align-items: flex-start; margin-top: 20px;"}
+<!-- First Image -->
+
+<figure style="text-align: center; width: 100%;">
+
+<img src="images/RNA.png" alt="RNA_seq" style="width: 100%; height: auto;"/>
+
+  <figcaption style="font-size: 14px; color: gray;">
+  Classifying Pn neurons based on their transcriptomic profiles (Chen et al., 2024).
+  </figcaption>
+
+</figure>
+:::
+
+**Optogenetics and chemogenetics**
+
+Optogenetics and chemogenetics are advanced tools for manipulating neuronal activity with high precision. Optogenetics uses light-sensitive proteins, such as channelrhodopsins and halorhodopsins, to activate or inhibit neurons via light, offering millisecond-level temporal resolution. It is widely used to probe the causal relationship between neuronal activity and behavior. Chemogenetics employs engineered receptors, such as DREADDs (Designer Receptors Exclusively Activated by Designer Drugs), which are activated by specific ligands, enabling more prolonged and spatially targeted modulation of neuronal activity. Both techniques provide valuable insights into neural circuits and behavior, with optogenetics excelling in temporal precision and chemogenetics in long-lasting effects.
+
+::: {style="display: flex; justify-content: center; gap: 20px; align-items: flex-start; margin-top: 20px;"}
+<!-- First Image -->
+
+<figure style="text-align: center; width: 100%;">
+
+<img src="images/Opto.png" alt="RNA_seq" style="width: 100%; height: auto;"/>
+  <figcaption style="font-size: 14px; color: gray;">
+ Manipulating neuronal activity using optogenetics in both in vivo and in vitro settings (Chen et al., 2024).
+  </figcaption>
+
+</figure>
+:::
+
+## Computational approaches
+
+**Markerless animal pose estimation**
+
+Markerless animal pose estimation, like [DeepLabCut,](https://www.mackenziemathislab.org/deeplabcut#:~:text=DeepLabCut%E2%84%A2%20is%20an%20efficient,typically%2050%2D200%20frames) uses deep learning to track and analyze animal movements without requiring physical markers. It relies on annotated video data to train neural networks that predict the positions of key body parts across frames. This approach enables precise, automated tracking of behavior in diverse species and experimental setups, making it ideal for neuroscience, ethology, and biomechanics research.
+
+::: {style="display: flex; justify-content: center; gap: 20px; align-items: flex-start; margin-top: 20px;"}
+<!-- First Image -->
+
+<figure style="text-align: center; width: 60%;">
+  <img src="images/deeplabcut.png" alt="RNA_seq" style="width: 100%; height: auto;"/>
+  <figcaption style="font-size: 14px; color: gray;">
+    Image source: DeepLabCut official website.
+  </figcaption>
+</figure>
+:::
+
+**Graph theory**
+
+Graph theory is a branch of mathematics focused on studying graphs, which consist of nodes (vertices) connected by edges (links). It provides tools to analyze structures and relationships in networks, such as social networks, neural connections, or transportation systems. Key concepts include connectivity, shortest paths, and centrality. In neuroscience, graph theory is used to model brain connectivity, uncovering how neural networks process information. Its versatility makes it applicable to diverse fields, from biology to computer science and beyond.
+
+::: {style="display: flex; justify-content: center; gap: 20px; align-items: flex-start; margin-top: 20px;"}
+<!-- First Image -->
+
+<figure style="text-align: center; width: 100%;">
+
+<img src="images/network.png" alt="network" style="width: 100%; height: auto;"/>
+  <figcaption style="font-size: 14px; color: gray;">
+    Employing graph theory to systematically characterize the architecture of a comprehensive pain network (Chen et al., 2023).
+  </figcaption>
+
+</figure>
+:::
+
+**Machine learning**
+
+Machine learning (ML) and deep learning (DL) are transformative tools in neuroscience, enabling the analysis of complex datasets such as neural recordings, imaging, and behavioral data. ML algorithms, including support vector machines and random forests, are used to classify patterns and predict outcomes based on features extracted from data. Deep learning, a subset of ML, leverages artificial neural networks with multiple layers to automatically extract features and model intricate relationships. Applications in neuroscience include decoding brain activity, understanding neural connectivity, and predicting behaviors. DL excels in handling large-scale, high-dimensional data, offering unparalleled precision in unraveling the complexities of the brain.
+
+::: {style="display: flex; justify-content: center; gap: 20px; align-items: flex-start; margin-top: 20px;"}
+<!-- First Image -->
+
+<figure style="text-align: center; width: 100%;">
+
+<img src="images/machinelearning.png" alt="ML" style="width: 100%; height: auto;"/>
+  <figcaption style="font-size: 14px; color: gray;">
+  Classifying neurons based on their activity using machine learning algorithms (Chen et al., 2024).
+  </figcaption>
+
+</figure>
+:::
+
+

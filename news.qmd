@@ -1,0 +1,23 @@
+---
+title: ""
+toc: false
+---
+
+<style>
+  body {
+    background-image: url('images/borderless_blue.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+  }
+</style>
+
+<footer style="background-color: transparent; text-align: left; padding: 10px 0; color: black; font-size: 14px; border-top: 1px solid rgba(0, 0, 0, 0.1);">
+
+Chen Lab \| Westlake © 2024
+
+</footer>
+
+**11.13.2024**
+
+Chong has officially accepted an offer to join the School of Medicine at Westlake University as an Assistant Professor.

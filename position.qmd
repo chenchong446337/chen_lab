@@ -1,0 +1,52 @@
+---
+title: ""
+toc: false
+---
+
+<style>
+  footer {
+    position: fixed;
+    bottom: -50px;
+    left: 0;
+    width: 100%; /* Ensure the footer spans the entire page */
+    background-color: black;
+    text-align: left;
+    padding: 10px 0;
+    color: white;
+    font-size: 14px;
+    border-top: 1px solid rgba(0, 0, 0, 0.1);
+    transition: transform 0.5s ease-in-out;
+  }
+
+  body {
+    margin: 0; /* Remove any default margin that might interfere */
+  }
+
+  footer.show {
+    transform: translateY(-50px); /* Bring footer into view */
+  }
+</style>
+<script>
+  document.addEventListener("scroll", function () {
+    const footer = document.querySelector("footer");
+    const scrollHeight = document.documentElement.scrollHeight;
+    const scrollPosition = window.innerHeight + window.scrollY;
+
+    // Check if the user has scrolled to the bottom
+    if (scrollPosition >= scrollHeight) {
+      footer.classList.add("show");
+    } else {
+      footer.classList.remove("show");
+    }
+  });
+</script>
+
+<footer>Chen Lab \| Westlake © 2024</footer>
+
+## We are recruiting!
+
+We are seeking graduate students and postdocs to study the neurobiology of pain, opioids, and anesthesia. First-year Ph.D. students at Westlake University are welcome to select our lab for rotations. Visiting scholars who can commit to staying in the lab for more than two years are also encouraged to apply. Positions for visiting students are limited, but qualified candidates planning to pursue Ph.D. training in our lab are strongly encouraged to apply.
+
+Our lab is situated in a vibrant, interdisciplinary, and collaborative research environment at [Westlake University](https://www.westlake.edu.cn/), with opportunities for international collaborations to broaden research perspectives. If you are interested in applying, please email me with a description of your research experience and interests, along with your CV and contact information for references.
+
+![](images/ad_team.png){fig-alt="Ad" width="500" fig-align="center"}

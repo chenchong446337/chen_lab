@@ -1,0 +1,27 @@
+---
+title: ""
+toc: false
+---
+
+<style>
+  body {
+    background-image: url('images/title_blue.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+  }
+</style>
+
+<footer style="background-color: transparent; text-align: left; padding: 10px 0; color: black; font-size: 14px; border-top: 1px solid rgba(0, 0, 0, 0.1);">
+
+Chen Lab \| Westlake © 2024 Zhejiang Province, China
+
+</footer>
+
+::: text-box
+# Chen Lab
+
+### School of Medicine \@ Westlake University
+
+Welcome to the **Chen Lab** at Westlake University! Our lab is dedicated to advancing **pain, opioid,** and **anesthesia** research. With a unique perspective rooted in both neuroscience and anesthesiology, we combine hands-on experimental techniques with cutting-edge computational approaches to explore the neurobiology of pain, opioids, and general anesthesia. By studying these phenomena at the **circuit, cellular,** and **synaptic levels**, we aim to uncover insights that can ultimately improve patient care and outcomes.
+:::
