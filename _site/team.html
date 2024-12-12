@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Team – Chen lab | Westlake</title>
+<title>team</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -19,40 +19,6 @@ ul.task-list li input[type="checkbox"] {
   width: 0.8em;
   margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
-}
-/* CSS for syntax highlighting */
-pre > code.sourceCode { white-space: pre; position: relative; }
-pre > code.sourceCode > span { line-height: 1.25; }
-pre > code.sourceCode > span:empty { height: 1.2em; }
-.sourceCode { overflow: visible; }
-code.sourceCode > span { color: inherit; text-decoration: inherit; }
-div.sourceCode { margin: 1em 0; }
-pre.sourceCode { margin: 0; }
-@media screen {
-div.sourceCode { overflow: auto; }
-}
-@media print {
-pre > code.sourceCode { white-space: pre-wrap; }
-pre > code.sourceCode > span { display: inline-block; text-indent: -5em; padding-left: 5em; }
-}
-pre.numberSource code
-  { counter-reset: source-line 0; }
-pre.numberSource code > span
-  { position: relative; left: -4em; counter-increment: source-line; }
-pre.numberSource code > span > a:first-child::before
-  { content: counter(source-line);
-    position: relative; left: -1em; text-align: right; vertical-align: baseline;
-    border: none; display: inline-block;
-    -webkit-touch-callout: none; -webkit-user-select: none;
-    -khtml-user-select: none; -moz-user-select: none;
-    -ms-user-select: none; user-select: none;
-    padding: 0 4px; width: 4em;
-  }
-pre.numberSource { margin-left: 3em;  padding-left: 4px; }
-div.sourceCode
-  {   }
-@media screen {
-pre > code.sourceCode > span > a:first-child::before { text-decoration: underline; }
 }
 </style>
 
@@ -100,12 +66,44 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
     "search-label": "Search"
   }
 }</script>
+<style>
+
+.navbar-brand img {
+    height: 70px !important; /* Adjust height as needed */
+    width: auto !important;  /* Maintain aspect ratio */
+    max-height: none !important; /* Remove max-height constraints */
+    max-width: none !important; /* Remove max-width constraints */
+  }
+  
+  /* Footer styling */
+  footer {
+    text-align: center;
+    padding: 10px 0;
+    background-color: #f8f9fa;
+    color: #6c757d;
+    font-size: 14px;
+    border-top: 1px solid #e9ecef;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+  }
+  
+  /* Style for the text box */
+  .text-box {
+    max-width: 600px; /* Restrict the width of the text box */
+    margin: -20 auto;   /* Center the box */
+    padding: 0px;    /* Add some padding inside the box */
+    text-align: justify; /* Optional: Align text to the left */
+    background-color: transparant; /* Optional: Background color */
+    border-radius: 8px; /* Optional: Add rounded corners */
+  }
+</style>
 
 
 <link rel="stylesheet" href="styles.css">
 </head>
 
-<body class="nav-fixed">
+<body class="nav-fixed fullcontent">
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top">
@@ -114,9 +112,6 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
       <div class="navbar-brand-container mx-auto">
     <a href="./index.html" class="navbar-brand navbar-brand-logo">
     <img src="./images/logo.png" alt="" class="navbar-logo">
-    </a>
-    <a class="navbar-brand" href="./index.html">
-    <span class="navbar-title">Chen lab | Westlake</span>
     </a>
   </div>
             <div id="quarto-search" class="" title="Search"></div>
@@ -130,20 +125,37 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 <span class="menu-text">Home</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./talks.html"> 
-<span class="menu-text">Talks</span></a>
+    <a class="nav-link" href="./news.html"> 
+<span class="menu-text">News</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="./research.html"> 
+<span class="menu-text">Research</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="./approach.html"> 
+<span class="menu-text">Approach</span></a>
   </li>  
   <li class="nav-item">
     <a class="nav-link active" href="./team.html" aria-current="page"> 
 <span class="menu-text">Team</span></a>
   </li>  
   <li class="nav-item">
+    <a class="nav-link" href="./publication.html"> 
+<span class="menu-text">Publication</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="./position.html"> 
+<span class="menu-text">Open Position</span></a>
+  </li>  
+  <li class="nav-item">
     <a class="nav-link" href="./contact.html"> 
 <span class="menu-text">Contact</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./about.html"> 
-<span class="menu-text">About</span></a>
+    <a class="nav-link" href="https://x.com/chenchong446337"> <i class="bi bi-twitter" role="img">
+</i> 
+<span class="menu-text"></span></a>
   </li>  
 </ul>
           </div> <!-- /navcollapse -->
@@ -156,40 +168,120 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar zindex-bottom">
-        
-    </div>
+    
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
-<header id="title-block-header" class="quarto-title-block default">
-<div class="quarto-title">
-<h1 class="title">Team</h1>
+
+
+
+<style>
+  footer {
+    position: fixed;
+    bottom: -50px;
+    left: 0;
+    width: 100%; /* Ensure the footer spans the entire page */
+    background-color: black;
+    text-align: left;
+    padding: 10px 0;
+    color: white;
+    font-size: 14px;
+    border-top: 1px solid rgba(0, 0, 0, 0.1);
+    transition: transform 0.5s ease-in-out;
+  }
+
+  body {
+    margin: 0; /* Remove any default margin that might interfere */
+  }
+
+  footer.show {
+    transform: translateY(-50px); /* Bring footer into view */
+  }
+</style>
+<script>
+  document.addEventListener("scroll", function () {
+    const footer = document.querySelector("footer");
+    const scrollHeight = document.documentElement.scrollHeight;
+    const scrollPosition = window.innerHeight + window.scrollY;
+
+    // Check if the user has scrolled to the bottom
+    if (scrollPosition >= scrollHeight) {
+      footer.classList.add("show");
+    } else {
+      footer.classList.remove("show");
+    }
+  });
+</script>
+<footer>
+Chen Lab | Westlake © 2024
+</footer>
+<section id="principal-investigator" class="level2">
+<h2 class="anchored" data-anchor-id="principal-investigator">Principal Investigator</h2>
+<div style="text-align: center;">
+<p><img src="images/chong_chen.jpg" alt="Chong Chen" width="150" style="border-radius: 50%; margin-bottom: 10px;"></p>
+<h3 class="anchored">
+Chong Chen MD, PhD
+</h3>
+<p>
+<a href="mailto:chenchong@westlake.edu.cn" style="text-decoration: none; color: blue;"> chenchong@westlake.edu.cn </a>
+</p>
+<p>
+Dr.&nbsp;Chen is a neuroscientist and former anesthesiologist.
+</p>
+<p>
+<a href="files/CV_Chen_updated_12042024.pdf" style="text-decoration: none; color: blue;" download=""> Download CV </a>
+</p>
 </div>
-
-
-
-<div class="quarto-title-meta">
-
-    
-  
-    
-  </div>
-  
-
-
-</header>
-
-
-<p>About this site</p>
-<div class="cell">
-<div class="sourceCode cell-code" id="cb1"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb1-1"><a href="#cb1-1" aria-hidden="true" tabindex="-1"></a><span class="dv">1</span> <span class="sc">+</span> <span class="dv">1</span></span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
-<div class="cell-output cell-output-stdout">
-<pre><code>[1] 2</code></pre>
+</section>
+<section id="research-assistant" class="level2">
+<h2 class="anchored" data-anchor-id="research-assistant">Research Assistant</h2>
+</section>
+<section id="postdoctoral-fellows-examples-now" class="level2">
+<h2 class="anchored" data-anchor-id="postdoctoral-fellows-examples-now">Postdoctoral Fellows (Examples now)</h2>
+<div style="text-align: center;">
+<table class="caption-top table">
+<tbody>
+<tr class="odd">
+<td style="text-align: center;"><div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="images/postdoc1.jpg" class="img-fluid figure-img"></p>
+<figcaption>Dr.&nbsp;Jane Doe</figcaption>
+</figure>
 </div>
+<h3 id="dr.-jane-doe" class="anchored">Dr.&nbsp;Jane Doe</h3>
+<p><a href="mailto:jane.doe@westlake.edu.cn">jane.doe@westlake.edu.cn</a></p>
+<p>Dr.&nbsp;Jane Doe specializes in cerebellar research and placebo analgesia.</p></td>
+<td style="text-align: center;"><div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="images/postdoc2.jpg" class="img-fluid figure-img"></p>
+<figcaption>Dr.&nbsp;John Smith</figcaption>
+</figure>
 </div>
+<h3 id="dr.-john-smith" class="anchored">Dr.&nbsp;John Smith</h3>
+<p><a href="mailto:john.smith@westlake.edu.cn">john.smith@westlake.edu.cn</a></p>
+<p>Dr.&nbsp;John Smith focuses on opioid addiction resilience and pain perception.</p></td>
+<td style="text-align: center;"><div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="images/postdoc3.jpg" class="img-fluid figure-img"></p>
+<figcaption>Dr.&nbsp;Alice Brown</figcaption>
+</figure>
+</div>
+<h3 id="dr.-alice-brown" class="anchored">Dr.&nbsp;Alice Brown</h3>
+<p><a href="mailto:alice.brown@westlake.edu.cn">alice.brown@westlake.edu.cn</a></p>
+<p>Dr.&nbsp;Alice Brown investigates cerebellar involvement in pain and motor control.</p></td>
+</tr>
+</tbody>
+</table>
+</div>
+</section>
+<section id="phd-students" class="level2">
+<h2 class="anchored" data-anchor-id="phd-students">PhD Students</h2>
+</section>
+<section id="visiting-students" class="level2">
+<h2 class="anchored" data-anchor-id="visiting-students">Visiting students</h2>
 
 
+</section>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">

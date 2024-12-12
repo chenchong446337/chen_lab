@@ -1,9 +1,0 @@
----
-title: "Talks"
----
-
-About this site
-
-```{r}
-1 + 1
-```

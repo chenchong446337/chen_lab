@@ -1,0 +1,105 @@
+---
+title: "Publication"
+toc: false
+---
+
+
+<style>
+  footer {
+    position: fixed;
+    bottom: -50px;
+    left: 0;
+    width: 100%; /* Ensure the footer spans the entire page */
+    background-color: black;
+    text-align: left;
+    padding: 10px 0;
+    color: white;
+    font-size: 14px;
+    border-top: 1px solid rgba(0, 0, 0, 0.1);
+    transition: transform 0.5s ease-in-out;
+  }
+
+  body {
+    margin: 0; /* Remove any default margin that might interfere */
+  }
+
+  footer.show {
+    transform: translateY(-50px); /* Bring footer into view */
+  }
+</style>
+
+<script>
+  document.addEventListener("scroll", function () {
+    const footer = document.querySelector("footer");
+    const scrollHeight = document.documentElement.scrollHeight;
+    const scrollPosition = window.innerHeight + window.scrollY;
+
+    // Check if the user has scrolled to the bottom
+    if (scrollPosition >= scrollHeight) {
+      footer.classList.add("show");
+    } else {
+      footer.classList.remove("show");
+    }
+  });
+</script>
+
+<footer>
+  Chen Lab | Westlake © 2024
+</footer>       
+
+<!-- This section displays the Google Scholar and ORCiD links -->
+
+<div style="text-align: center;">
+  <a href="https://scholar.google.com/citations?user=oCdRoBoAAAAJ&hl=en" 
+     style="text-decoration: underline; color: blue; margin-right: 40px; font-size: 18px;" 
+     target="_blank">
+    Google Scholar
+  </a>
+  <a href="https://orcid.org/0000-0002-8420-1410" 
+     style="text-decoration: underline; color: blue; font-size: 18px;" 
+     target="_blank">
+    ORCiD
+  </a>
+</div>
+
+--------------------------------------------------------------------
+
+**Before 2025**
+
+-   **Chen, C.**, Niehaus, J. K., Dinc, F., Huang, K. L., Barnette, A. L., Tassou, A., Shuster, S. A., Wang, L., Lemire, A., Menon, V., Ritola, K., Hantman, A., Zeng, H., Schnitzer, M. J., & Scherrer, G. (2024). [Neural circuit basis of placebo pain relief](https://www.nature.com/articles/s41586-024-07816-z). ***Nature***, 1–3.
+
+    **Selected Press Coverage:**
+
+    -   Nature: [Placebo effect involves unexpected brain regions](https://www.nature.com/articles/d41586-024-02373-x)
+
+    -   Nature: [How do placebos ease pain? Mouse brain study offers clues](https://www.nature.com/articles/d41586-024-02439-w)
+
+    -   NEJM: [What Is the Neural Basis of Placebo Pain Relief?](https://www.jwatch.org/na57782/2024/08/20/what-neural-basis-placebo-pain-relief)
+
+    -   PNAS: [Seeking the roots of the placebo effect, neuroscientists find the brain circuit that delivers relief](https://www.pnas.org/post/journal-club/seeking-roots-placebo-effect-neuroscientists-find-brain-circuit-delivers-relief)
+
+    -   NIH Director’s Blog: [Study Identifies Previously Unknown Pain Control Pathway Underlying Placebo Effect](https://directorsblog.nih.gov/2024/08/29/study-identifies-previously-unknown-pain-control-pathway-underlying-placebo-effect/)
+
+    -   Migraine Science Collaborative: [A Newly Discovered Neural Circuit for Placebo Pain Relief](https://migrainecollaborative.org/a-newly-discovered-neural-circuit-for-placebo-pain-relief)
+
+    -   NIH: [Scientists find brain circuit for placebo pain relief](https://www.nih.gov/news-events/nih-research-matters/scientists-find-brain-circuit-placebo-pain-relief)
+
+    -   NeurologyToday: [Novel Brain Circuit Underlies Placebo Pain Relief in Animal Model](https://journals.lww.com/neurotodayonline/fulltext/2024/09190/novel_brain_circuit_underlies_placebo_pain_relief.10.aspx)
+
+-   Chen, J.\**, Kaufmann, W.\**, **Chen, C.**, Arai, I., Kim, O., Shigemoto, R., Jonas, P. (2024). [Developmental transformation of Ca2+ channel-vesicle nanotopography at a central GABAergic synapse.](https://www.cell.com/neuron/fulltext/S0896-6273(23)00930-3) ***Neuron***. https://doi.org/10.1016/j.neuron.2023.12.002 \*Equal contribution
+
+-   **Chen, C.\***, Tassou, A., Morales, V., & Scherrer, G.\* (2023). [Graph theory analysis reveals an assortative pain network vulnerable to attacks.](https://www.nature.com/articles/s41598-023-49458-7#:~:text=Graph%20theory%20analysis%20of%20this,and%20separated%20the%20two%20known) Scientific Reports, 13(1), 21985. \*Corresponding author
+
+-   Li, S.-B.\*, Damonte, V. M.\*, **Chen, C.**, Wang, G. X., Kebschull, J. M., Yamaguchi, H., Bian, W.-J., Purmann, C., Pattni, R., Urban, A. E., Mourrain, P., Kauer, J. A., Scherrer, G., & de Lecea, L. (2022). [Hyperexcitable arousal circuits drive sleep instability during aging](https://pubmed.ncbi.nlm.nih.gov/35201886/). Science, 375(6583), eabh3021. \* Equal contribution
+
+-   Mercer Lindsay, N., **Chen, C.**, Gilam, G., Mackey, S., & Scherrer, G. (2021). [Brain circuits for pain and its treatment](https://pubmed.ncbi.nlm.nih.gov/34757810/). Science Translational Medicine, 13(619), eabj7360.
+
+-   **Chen, C.**, Satterfield, R., Young, S. M., Jr, & Jonas, P. (2017). [Triple Function of Synaptotagmin 7 Ensures Efficiency of High-Frequency Transmission at Central GABAergic Synapses.](https://pubmed.ncbi.nlm.nih.gov/29166601/) Cell Reports, 21(8), 2082–2089.
+
+-   **Chen, C.**, & Jonas, P. (2017).[Synaptotagmins: That’s Why So Many.](https://pubmed.ncbi.nlm.nih.gov/28521120/) Neuron, 94(4), 694–696.
+
+-   **Chen, C.**, Arai, I., Satterfield, R., Young, S. M., Jr, & Jonas, P. (2017). [Synaptotagmin 2 Is the Fast Ca2+ Sensor at a Central Inhibitory Synapse](https://pubmed.ncbi.nlm.nih.gov/28099850/). Cell Reports, 18(3), 723–736.
+
+-   Shen, F.-Y., Chen, Z.-Y., Zhong, W., Ma, L.-Q., **Chen, C.**, Yang, Z.-J., Xie, W.-L., & Wang, Y.-W. (2015). [Alleviation of neuropathic pain by regulating T-type calcium channels in rat anterior cingulate cortex](https://pubmed.ncbi.nlm.nih.gov/25885031/). Molecular Pain, 11, 7.
+
+-   **Chen, C.**, Shen, F.-Y., Zhao, X., Zhou, T., Xu, D.-J., Wang, Z.-R., & Wang, Y.-W. (2015).[Low-dose sevoflurane promotes hippocampal neurogenesis and facilitates the development of dentate gyrus-dependent learning in neonatal rats](https://pubmed.ncbi.nlm.nih.gov/25873307/). ASN Neuro, 7(2).

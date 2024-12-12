@@ -2,9 +2,9 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "",
+    "title": "Chen Lab",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "Chen Lab | Westlake © 2024 Zhejiang Province, China\n\n\nChen Lab\n\nSchool of Medicine @ Westlake University\nWelcome to the Chen Lab at Westlake University! Our lab is dedicated to advancing pain, opioid, and anesthesia research. With a unique perspective rooted in both neuroscience and anesthesiology, we combine hands-on experimental techniques with cutting-edge computational approaches to explore the neurobiology of pain, opioids, and general anesthesia. By studying these phenomena at the circuit, cellular, and synaptic levels, we aim to uncover insights that can ultimately improve patient care and outcomes."
   },
   {
     "objectID": "about.html",
@@ -23,15 +23,190 @@
   {
     "objectID": "team.html",
     "href": "team.html",
-    "title": "Team",
+    "title": "",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "Chen Lab | Westlake © 2024"
   },
   {
     "objectID": "contact.html",
     "href": "contact.html",
-    "title": "Contact",
+    "title": "",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "Chen Lab | Westlake © 2024"
+  },
+  {
+    "objectID": "index.html#school-of-medicine",
+    "href": "index.html#school-of-medicine",
+    "title": "Chen Lab",
+    "section": "School of Medicine",
+    "text": "School of Medicine"
+  },
+  {
+    "objectID": "index.html#westlake-university",
+    "href": "index.html#westlake-university",
+    "title": "Chen Lab",
+    "section": "Westlake University",
+    "text": "Westlake University\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "",
+    "section": "",
+    "text": "Chen Lab | Westlake © 2024"
+  },
+  {
+    "objectID": "research.html#motivation",
+    "href": "research.html#motivation",
+    "title": "",
+    "section": "Motivation:",
+    "text": "Motivation:\nMy career began in the demanding setting of an operating room, where I became deeply intrigued by the powerful and somewhat mysterious nature of general anesthesia. This fascination led me to transition from anesthesiology to neuroscience, aiming to make my own contribution to our understanding of the intricately interconnected neurobiology of pain, opioids, and anesthesia.\nThis fascination was deepened by my experiences as an anesthesiologist, witnessing the complexities of general anesthesia and rare but profound complications like anesthesia awareness—dramatically depicted in the movie Awake below.\n\n\n\nYour browser does not support the video tag. Try downloading it instead: Download the video."
+  },
+  {
+    "objectID": "team.html#principal-investigator",
+    "href": "team.html#principal-investigator",
+    "title": "",
+    "section": "Principal Investigator",
+    "text": "Principal Investigator\n\n\n\nChong Chen MD, PhD\n\n\n chenchong@westlake.edu.cn \n\n\nDr. Chen is a neuroscientist and former anesthesiologist.\n\n\n Download CV"
+  },
+  {
+    "objectID": "team.html#postdoctoral-fellows",
+    "href": "team.html#postdoctoral-fellows",
+    "title": "",
+    "section": "Postdoctoral Fellows",
+    "text": "Postdoctoral Fellows\n\n\n\n\n\n\nDr. Jane Doe\n\n\njane.doe@westlake.edu.cn\n\n\nDr. Jane Doe specializes in cerebellar research and placebo analgesia.\n\n\n\n\n\nDr. John Smith\n\n\njohn.smith@westlake.edu.cn\n\n\nDr. John Smith focuses on opioid addiction resilience and pain perception.\n\n\n\n\n\nDr. Alice Brown\n\n\nalice.brown@westlake.edu.cn\n\n\nDr. Alice Brown investigates cerebellar involvement in pain and motor control."
+  },
+  {
+    "objectID": "team.html#graduate-students",
+    "href": "team.html#graduate-students",
+    "title": "Team",
+    "section": "Graduate Students",
+    "text": "Graduate Students\n\n\n\n&lt;h3&gt;John Smith&lt;/h3&gt;\n&lt;p&gt;\n  John Smith is a graduate student working on the neurobiology of opioid addiction. His research investigates the role of neural circuits in addiction resilience.\n&lt;/p&gt;"
+  },
+  {
+    "objectID": "team.html#research-assistant",
+    "href": "team.html#research-assistant",
+    "title": "",
+    "section": "Research Assistant",
+    "text": "Research Assistant"
+  },
+  {
+    "objectID": "team.html#phd-students",
+    "href": "team.html#phd-students",
+    "title": "",
+    "section": "PhD Students",
+    "text": "PhD Students"
+  },
+  {
+    "objectID": "team.html#visiting-students",
+    "href": "team.html#visiting-students",
+    "title": "",
+    "section": "Visiting students",
+    "text": "Visiting students"
+  },
+  {
+    "objectID": "team.html#postdoctoral-fellows-examples-now",
+    "href": "team.html#postdoctoral-fellows-examples-now",
+    "title": "",
+    "section": "Postdoctoral Fellows (Examples now)",
+    "text": "Postdoctoral Fellows (Examples now)\n\n\n\n\n\n\n\nDr. Jane Doe\n\n\nDr. Jane Doe\njane.doe@westlake.edu.cn\nDr. Jane Doe specializes in cerebellar research and placebo analgesia.\n\n\n\nDr. John Smith\n\n\nDr. John Smith\njohn.smith@westlake.edu.cn\nDr. John Smith focuses on opioid addiction resilience and pain perception.\n\n\n\nDr. Alice Brown\n\n\nDr. Alice Brown\nalice.brown@westlake.edu.cn\nDr. Alice Brown investigates cerebellar involvement in pain and motor control."
+  },
+  {
+    "objectID": "publication.html",
+    "href": "publication.html",
+    "title": "Publication",
+    "section": "",
+    "text": "Chen Lab | Westlake © 2024\n\n\n\n Google Scholar   ORCiD \n\n\nBefore 2025\n\nChen, C., Niehaus, J. K., Dinc, F., Huang, K. L., Barnette, A. L., Tassou, A., Shuster, S. A., Wang, L., Lemire, A., Menon, V., Ritola, K., Hantman, A., Zeng, H., Schnitzer, M. J., & Scherrer, G. (2024). Neural circuit basis of placebo pain relief. Nature, 1–3.\nSelected Press Coverage:\n\nNature: Placebo effect involves unexpected brain regions\nNature: How do placebos ease pain? Mouse brain study offers clues\nNEJM: What Is the Neural Basis of Placebo Pain Relief?\nPNAS: Seeking the roots of the placebo effect, neuroscientists find the brain circuit that delivers relief\nNIH Director’s Blog: Study Identifies Previously Unknown Pain Control Pathway Underlying Placebo Effect\nMigraine Science Collaborative: A Newly Discovered Neural Circuit for Placebo Pain Relief\nNIH: Scientists find brain circuit for placebo pain relief\nNeurologyToday: Novel Brain Circuit Underlies Placebo Pain Relief in Animal Model\n\nChen, J.*, Kaufmann, W.*, Chen, C., Arai, I., Kim, O., Shigemoto, R., Jonas, P. (2024). Developmental transformation of Ca2+ channel-vesicle nanotopography at a central GABAergic synapse. Neuron. https://doi.org/10.1016/j.neuron.2023.12.002 *Equal contribution\nChen, C.*, Tassou, A., Morales, V., & Scherrer, G.* (2023). Graph theory analysis reveals an assortative pain network vulnerable to attacks. Scientific Reports, 13(1), 21985. *Corresponding author\nLi, S.-B.*, Damonte, V. M.*, Chen, C., Wang, G. X., Kebschull, J. M., Yamaguchi, H., Bian, W.-J., Purmann, C., Pattni, R., Urban, A. E., Mourrain, P., Kauer, J. A., Scherrer, G., & de Lecea, L. (2022). Hyperexcitable arousal circuits drive sleep instability during aging. Science, 375(6583), eabh3021. * Equal contribution\nMercer Lindsay, N., Chen, C., Gilam, G., Mackey, S., & Scherrer, G. (2021). Brain circuits for pain and its treatment. Science Translational Medicine, 13(619), eabj7360.\nChen, C., Satterfield, R., Young, S. M., Jr, & Jonas, P. (2017). Triple Function of Synaptotagmin 7 Ensures Efficiency of High-Frequency Transmission at Central GABAergic Synapses. Cell Reports, 21(8), 2082–2089.\nChen, C., & Jonas, P. (2017).Synaptotagmins: That’s Why So Many. Neuron, 94(4), 694–696.\nChen, C., Arai, I., Satterfield, R., Young, S. M., Jr, & Jonas, P. (2017). Synaptotagmin 2 Is the Fast Ca2+ Sensor at a Central Inhibitory Synapse. Cell Reports, 18(3), 723–736.\nShen, F.-Y., Chen, Z.-Y., Zhong, W., Ma, L.-Q., Chen, C., Yang, Z.-J., Xie, W.-L., & Wang, Y.-W. (2015). Alleviation of neuropathic pain by regulating T-type calcium channels in rat anterior cingulate cortex. Molecular Pain, 11, 7.\nChen, C., Shen, F.-Y., Zhao, X., Zhou, T., Xu, D.-J., Wang, Z.-R., & Wang, Y.-W. (2015).Low-dose sevoflurane promotes hippocampal neurogenesis and facilitates the development of dentate gyrus-dependent learning in neonatal rats. ASN Neuro, 7(2)."
+  },
+  {
+    "objectID": "news.html",
+    "href": "news.html",
+    "title": "",
+    "section": "",
+    "text": "Chen Lab | Westlake © 2024\n\n11.13.2024\nChong has accepted the offer to join the School of Medicine at Westlake University as an Assistant Professor."
+  },
+  {
+    "objectID": "contact.html#address",
+    "href": "contact.html#address",
+    "title": "",
+    "section": "Address",
+    "text": "Address\n📍 Westlake University\n18 Shilongshan Street\nXihu District, Hangzhou\nZhejiang Province, China\nPostal Code: 310024"
+  },
+  {
+    "objectID": "position.html",
+    "href": "position.html",
+    "title": "",
+    "section": "",
+    "text": "Chen Lab | Westlake © 2024"
+  },
+  {
+    "objectID": "publication.html#google-scholar",
+    "href": "publication.html#google-scholar",
+    "title": "",
+    "section": "Google Scholar",
+    "text": "Google Scholar\nBefore 2025\n\nChen, C., Niehaus, J. K., Dinc, F., Huang, K. L., Barnette, A. L., Tassou, A., Shuster, S. A., Wang, L., Lemire, A., Menon, V., Ritola, K., Hantman, A., Zeng, H., Schnitzer, M. J., & Scherrer, G. (2024). Neural circuit basis of placebo pain relief. Nature, 1–3.\nSelected Press Coverage:\n\nNature: Placebo effect involves unexpected brain regions\nNature: How do placebos ease pain? Mouse brain study offers clues\nNEJM: What Is the Neural Basis of Placebo Pain Relief?\nPNAS: Seeking the roots of the placebo effect, neuroscientists find the brain circuit that delivers relief\nNIH Director’s Blog: Study Identifies Previously Unknown Pain Control Pathway Underlying Placebo Effect\nMigraine Science Collaborative: A Newly Discovered Neural Circuit for Placebo Pain Relief\nNIH: Scientists find brain circuit for placebo pain relief\nNeurologyToday: Novel Brain Circuit Underlies Placebo Pain Relief in Animal Model\n\nChen, J.*, Kaufmann, W.*, Chen, C., Arai, I., Kim, O., Shigemoto, R., Jonas, P. (2024). Developmental transformation of Ca2+ channel-vesicle nanotopography at a central GABAergic synapse. Neuron. https://doi.org/10.1016/j.neuron.2023.12.002 *Equal contribution\nChen, C.*, Tassou, A., Morales, V., & Scherrer, G.* (2023). Graph theory analysis reveals an assortative pain network vulnerable to attacks. Scientific Reports, 13(1), 21985. *Corresponding author\nLi, S.-B.*, Damonte, V. M.*, Chen, C., Wang, G. X., Kebschull, J. M., Yamaguchi, H., Bian, W.-J., Purmann, C., Pattni, R., Urban, A. E., Mourrain, P., Kauer, J. A., Scherrer, G., & de Lecea, L. (2022). Hyperexcitable arousal circuits drive sleep instability during aging. Science, 375(6583), eabh3021. * Equal contribution\nMercer Lindsay, N., Chen, C., Gilam, G., Mackey, S., & Scherrer, G. (2021). Brain circuits for pain and its treatment. Science Translational Medicine, 13(619), eabj7360.\nChen, C., Satterfield, R., Young, S. M., Jr, & Jonas, P. (2017). Triple Function of Synaptotagmin 7 Ensures Efficiency of High-Frequency Transmission at Central GABAergic Synapses. Cell Reports, 21(8), 2082–2089.\nChen, C., & Jonas, P. (2017).Synaptotagmins: That’s Why So Many. Neuron, 94(4), 694–696.\nChen, C., Arai, I., Satterfield, R., Young, S. M., Jr, & Jonas, P. (2017). Synaptotagmin 2 Is the Fast Ca2+ Sensor at a Central Inhibitory Synapse. Cell Reports, 18(3), 723–736.\nShen, F.-Y., Chen, Z.-Y., Zhong, W., Ma, L.-Q., Chen, C., Yang, Z.-J., Xie, W.-L., & Wang, Y.-W. (2015). Alleviation of neuropathic pain by regulating T-type calcium channels in rat anterior cingulate cortex. Molecular Pain, 11, 7.\nChen, C., Shen, F.-Y., Zhao, X., Zhou, T., Xu, D.-J., Wang, Z.-R., & Wang, Y.-W. (2015).Low-dose sevoflurane promotes hippocampal neurogenesis and facilitates the development of dentate gyrus-dependent learning in neonatal rats. ASN Neuro, 7(2)."
+  },
+  {
+    "objectID": "publication.html#google-scholar-orcid",
+    "href": "publication.html#google-scholar-orcid",
+    "title": "",
+    "section": "Google Scholar ORCiD",
+    "text": "Google Scholar ORCiD\nBefore 2025\n\nChen, C., Niehaus, J. K., Dinc, F., Huang, K. L., Barnette, A. L., Tassou, A., Shuster, S. A., Wang, L., Lemire, A., Menon, V., Ritola, K., Hantman, A., Zeng, H., Schnitzer, M. J., & Scherrer, G. (2024). Neural circuit basis of placebo pain relief. Nature, 1–3.\nSelected Press Coverage:\n\nNature: Placebo effect involves unexpected brain regions\nNature: How do placebos ease pain? Mouse brain study offers clues\nNEJM: What Is the Neural Basis of Placebo Pain Relief?\nPNAS: Seeking the roots of the placebo effect, neuroscientists find the brain circuit that delivers relief\nNIH Director’s Blog: Study Identifies Previously Unknown Pain Control Pathway Underlying Placebo Effect\nMigraine Science Collaborative: A Newly Discovered Neural Circuit for Placebo Pain Relief\nNIH: Scientists find brain circuit for placebo pain relief\nNeurologyToday: Novel Brain Circuit Underlies Placebo Pain Relief in Animal Model\n\nChen, J.*, Kaufmann, W.*, Chen, C., Arai, I., Kim, O., Shigemoto, R., Jonas, P. (2024). Developmental transformation of Ca2+ channel-vesicle nanotopography at a central GABAergic synapse. Neuron. https://doi.org/10.1016/j.neuron.2023.12.002 *Equal contribution\nChen, C.*, Tassou, A., Morales, V., & Scherrer, G.* (2023). Graph theory analysis reveals an assortative pain network vulnerable to attacks. Scientific Reports, 13(1), 21985. *Corresponding author\nLi, S.-B.*, Damonte, V. M.*, Chen, C., Wang, G. X., Kebschull, J. M., Yamaguchi, H., Bian, W.-J., Purmann, C., Pattni, R., Urban, A. E., Mourrain, P., Kauer, J. A., Scherrer, G., & de Lecea, L. (2022). Hyperexcitable arousal circuits drive sleep instability during aging. Science, 375(6583), eabh3021. * Equal contribution\nMercer Lindsay, N., Chen, C., Gilam, G., Mackey, S., & Scherrer, G. (2021). Brain circuits for pain and its treatment. Science Translational Medicine, 13(619), eabj7360.\nChen, C., Satterfield, R., Young, S. M., Jr, & Jonas, P. (2017). Triple Function of Synaptotagmin 7 Ensures Efficiency of High-Frequency Transmission at Central GABAergic Synapses. Cell Reports, 21(8), 2082–2089.\nChen, C., & Jonas, P. (2017).Synaptotagmins: That’s Why So Many. Neuron, 94(4), 694–696.\nChen, C., Arai, I., Satterfield, R., Young, S. M., Jr, & Jonas, P. (2017). Synaptotagmin 2 Is the Fast Ca2+ Sensor at a Central Inhibitory Synapse. Cell Reports, 18(3), 723–736.\nShen, F.-Y., Chen, Z.-Y., Zhong, W., Ma, L.-Q., Chen, C., Yang, Z.-J., Xie, W.-L., & Wang, Y.-W. (2015). Alleviation of neuropathic pain by regulating T-type calcium channels in rat anterior cingulate cortex. Molecular Pain, 11, 7.\nChen, C., Shen, F.-Y., Zhao, X., Zhou, T., Xu, D.-J., Wang, Z.-R., & Wang, Y.-W. (2015).Low-dose sevoflurane promotes hippocampal neurogenesis and facilitates the development of dentate gyrus-dependent learning in neonatal rats. ASN Neuro, 7(2)."
+  },
+  {
+    "objectID": "approach.html",
+    "href": "approach.html",
+    "title": "",
+    "section": "",
+    "text": "Chen Lab | Westlake © 2024"
+  },
+  {
+    "objectID": "approach.html#experimental-approaches",
+    "href": "approach.html#experimental-approaches",
+    "title": "",
+    "section": "Experimental approaches",
+    "text": "Experimental approaches\nIn vivo Ca2+ imaging\nThe lab mainly use miniscope for Ca2+ imaging experiments. The miniscope is a compact, head-mounted fluorescence microscope designed for in vivo Ca²⁺ imaging in freely moving mice. It enables real-time observation of neuronal activity at the cellular level, offering high spatial and temporal resolution. The miniscope’s lightweight and portable design minimizes behavioral interference, making it ideal for studying neural circuits in naturalistic settings. It allows for long-term recordings in freely behaving animals, capturing the dynamics of neural activity during complex tasks.\n\n\n\n  Your browser does not support the video tag. Try downloading it instead: Download the video. \n\n\n\n\n\n\n\n\nYour browser does not support the video tag. Try downloading it instead: Download the video. \n\nIn vivo calcium imaging of neuronal activity in freely moving mice.\n\n\nElectrophysiology (paired recording)\nWhole-cell patch clamp is a technique to study ion channel activity and cellular electrical properties. Paired whole-cell recordings, where two cells are simultaneously patched, allow precise analysis of synaptic transmission and connectivity. This approach enables researchers to measure pre- and postsynaptic responses in real-time, offering insights into circuit dynamics, synaptic strength, and plasticity. Advantages include high temporal and spatial resolution, the ability to control intracellular environments, and direct access to synaptic interactions. It is particularly valuable in neuroscience for investigating functional connectivity and testing hypotheses about neural circuit mechanisms.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPaired recording of connected basket cells (BC) and Purkinje cells (PC) in the cerebellum, showing both their activity and how BC firing influences PC firing.\n\n\nViral neuronal tracing\nViral tracing is a powerful technique to map neural circuits by utilizing genetically engineered viruses to label neurons and their connections. Anterograde tracing labels downstream targets by transporting the virus from the cell body along axons to synaptic terminals, revealing outputs of specific neurons. Retrograde tracing, on the other hand, maps inputs by transporting the virus from axon terminals back to the originating cell bodies, identifying presynaptic neurons. Advanced viral tools, such as rabies and AAV vectors, enable cell-type-specific tracing, functional manipulation, and circuit mapping at single-neuron resolution, providing insights into the organization and connectivity of complex neural networks.\n\n\n\n\n\nAAV-mediated anterograde tracing and rabies virus-mediated retrograde tracing.\n\n\n\n\n\n\n\nActivity-dependent genetic labeling\nActivity-dependent tagging methods, such as TRAP (Targeted Recombination in Active Populations), are cutting-edge tools for labeling and studying neurons activated during specific experiences or stimuli. TRAP uses a combination of an immediate early gene promoter, such as Fos, and CreER technology to drive conditional gene expression in active neurons upon exposure to tamoxifen. This allows for precise temporal control of labeling, capturing neurons based on their activity at specific moments. TRAP is invaluable for dissecting functional circuits, enabling researchers to manipulate, trace, or analyze activated neuronal populations, shedding light on the neural basis of behaviors, memory, and sensory processing.\n\n\n\n\n\nUsing TRAP2 mice to label neurons active during pain stimulation.\n\n\n\nSingle-cell RNA seq and RNAscope\nSingle-cell RNA sequencing (scRNA-seq) is a cutting-edge method for analyzing gene expression in individual cells, providing detailed insights into cellular diversity, gene networks, and functional states. By capturing and sequencing RNA from single cells, it enables the discovery of novel cell types and understanding of dynamic biological processes. In situ hybridization (ISH) is a complementary technique used to validate scRNA-seq findings by visualizing specific RNA transcripts in their spatial context within tissues. ISH provides direct evidence of gene expression at the cellular level, linking molecular data to anatomical structures and ensuring the accuracy of transcriptomic analyses.\n\n\n\n\n\n\nOptogenetics and chemogenetics\nOptogenetics and chemogenetics are advanced tools for manipulating neuronal activity with high precision. Optogenetics uses light-sensitive proteins, such as channelrhodopsins and halorhodopsins, to activate or inhibit neurons via light, offering millisecond-level temporal resolution. It is widely used to probe the causal relationship between neuronal activity and behavior. Chemogenetics employs engineered receptors, such as DREADDs (Designer Receptors Exclusively Activated by Designer Drugs), which are activated by specific ligands, enabling more prolonged and spatially targeted modulation of neuronal activity. Both techniques provide valuable insights into neural circuits and behavior, with optogenetics excelling in temporal precision and chemogenetics in long-lasting effects.\n\n\n\n\n\nManipulating neuronal activity using optogenetics in both in vivo and in vitro settings."
+  },
+  {
+    "objectID": "approach.html#computational-approaches",
+    "href": "approach.html#computational-approaches",
+    "title": "",
+    "section": "Computational approaches",
+    "text": "Computational approaches\nMarkerless animal pose estimation\nMarkerless animal pose estimation, like DeepLabCut, uses deep learning to track and analyze animal movements without requiring physical markers. It relies on annotated video data to train neural networks that predict the positions of key body parts across frames. This approach enables precise, automated tracking of behavior in diverse species and experimental setups, making it ideal for neuroscience, ethology, and biomechanics research.\n\n\n\n\n\nImage source: DeepLabCut official website.\n\n\n\nGraph theory\nGraph theory is a branch of mathematics focused on studying graphs, which consist of nodes (vertices) connected by edges (links). It provides tools to analyze structures and relationships in networks, such as social networks, neural connections, or transportation systems. Key concepts include connectivity, shortest paths, and centrality. In neuroscience, graph theory is used to model brain connectivity, uncovering how neural networks process information. Its versatility makes it applicable to diverse fields, from biology to computer science and beyond.\n\n\n\n\n\n\nMachine learning\nMachine learning (ML) and deep learning (DL) are transformative tools in neuroscience, enabling the analysis of complex datasets such as neural recordings, imaging, and behavioral data. ML algorithms, including support vector machines and random forests, are used to classify patterns and predict outcomes based on features extracted from data. Deep learning, a subset of ML, leverages artificial neural networks with multiple layers to automatically extract features and model intricate relationships. Applications in neuroscience include decoding brain activity, understanding neural connectivity, and predicting behaviors. DL excels in handling large-scale, high-dimensional data, offering unparalleled precision in unraveling the complexities of the brain.\n\n\n\n\n\nNeuron classification based on their activity."
+  },
+  {
+    "objectID": "approach.html#video-and-image-example",
+    "href": "approach.html#video-and-image-example",
+    "title": "",
+    "section": "Video and Image Example",
+    "text": "Video and Image Example\n\n\n\n  Your browser does not support the video tag. Try downloading it instead: Download the video. \n\n\n\n\n\n\n\n\nYour browser does not support the video tag. Try downloading it instead: Download the video."
+  },
+  {
+    "objectID": "contact.html#contact",
+    "href": "contact.html#contact",
+    "title": "",
+    "section": "Contact",
+    "text": "Contact\nChong Chen M.D., Ph.D.\nPrincipal Investigator\nWestlake University\n📧 chenchong@westlake.edu.cn"
+  },
+  {
+    "objectID": "position.html#we-are-recruiting",
+    "href": "position.html#we-are-recruiting",
+    "title": "",
+    "section": "We are recruiting!",
+    "text": "We are recruiting!\nWe are seeking graduate students and postdocs to study the neurobiology of pain, opioids, and anesthesia. Visiting scholars who can stay in the lab for more than two years are also welcome. Positions for visiting students are limited, but qualified candidates planning to join the lab for Ph.D. training are encouraged to apply.\nOur lab is situated in a vibrant, interdisciplinary, and collaborative research environment at Westlake University. If you are interested in applying, please email me with a description of your research experience and interests, along with your CV and contact information for references."
+  },
+  {
+    "objectID": "research.html#future-work",
+    "href": "research.html#future-work",
+    "title": "",
+    "section": "Future work:",
+    "text": "Future work:\nMy command of both hands-on techniques and computational skills enables me to investigate the neurobiology of pain, opioids, and anesthesia, from nano-scale molecules to meter-scale systems. Below, I briefly describe three specific areas of research focus for my lab in the next five years.\n\n\nThe cerebellum in pain\n\nMy postdoctoral work revealed the involvement of the cerebellum in placebo analgesia, consistent with a growing body of evidence demonstrating the activation of the cerebellum during pain (Michelle Welman et al., 2018; Moulton et al., 2010). However, an intriguing question arises: How does the cerebellum, a brain structure known for its motor functions, participate in pain perception?\n\n\n\n\nOpioids in the cerebellum for pain and mental disorders\n\nTraditionally, the cerebellum was considered a negative control for opioid expression. However, recent single-cell RNA-sequence data and my histological data confirm the expression of various opioid peptides and receptors in the cerebellum. Whether they play an important role in pain perception is not clear. Additionally, growing evidence implicates the endogenous opioid system in anxiety and depression (Peciña et al., 2019). Global DOR knockout mice exhibit anxiety and depression symptoms (Filliol et al., 2000). However, the removal of DOR specifically from inhibitory neurons in the forebrain induces anxiety phenotypes (Chu Sin Chung et al., 2015). This highlights the multifaceted roles of DOR+ neurons across different brain regions and neuron types in the context of anxiety and depression.\n\n\n\n\nNeural basis of anesthesia emergence\n\nAnesthesia emergence (AE) represents the critical final stage of general anesthesia, marking the patient’s transition from unconsciousness to wakefulness. Achieving a smooth and safe emergence is a primary goal for anesthesiologists, yet this phase can be accompanied by a range of undesirable complications, such as emergence delirium in children with an incidence of 50-80%, and delayed emergence prevalent in patients older than 60 years. Recent studies have demonstrated that the neural circuits controlling AE are distinct from those involved in anesthesia induction (Cascella et al. 2018; Tarnal et al. 2016). However, the neurobiology underlying AE remains largely unexplored.\nTo investigate the neural substrate underlying anesthesia emergence (AE), I have utilized an activity-dependent genetic tagging technique to label neurons active during AE. This experiment has generated intriguing preliminary data (Fig.3) suggesting that numerous neurons in the dorsal raphe nucleus (DRN) display increased activity during anesthesia emergence.\n\n\n\n\n:::"
+  },
+  {
+    "objectID": "backup/index_black_background.html",
+    "href": "backup/index_black_background.html",
+    "title": "Chen Lab",
+    "section": "",
+    "text": "Chen Lab | Westlake © 2024\n\n\nChen Lab\n\nSchool of Medicine @ Westlake University\nWelcome to the Chen Lab at Westlake University! Our lab is dedicated to advancing pain, opioid, and anesthesia research. With a unique perspective rooted in both neuroscience and anesthesiology, we combine hands-on experimental techniques with cutting-edge computational approaches to explore the neurobiology of pain, opioids, and general anesthesia. By studying these phenomena at the circuit, cellular, and synaptic levels, we aim to uncover insights that can ultimately improve patient care and outcomes."
   }
 ]
