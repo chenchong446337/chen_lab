@@ -22,7 +22,7 @@ website:
         href: team.qmd
       - text: "Publication"
         href: publication.qmd
-      - text: "Open Position"
+      - text: "Join us!"
         href: position.qmd
       - contact.qmd
       - text: ""
