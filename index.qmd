@@ -14,7 +14,7 @@ toc: false
 
 <footer style="background-color: transparent; text-align: left; padding: 10px 0; color: black; font-size: 14px; border-top: 1px solid rgba(0, 0, 0, 0.1);">
 
-Chen Lab \| Westlake © 2024 Zhejiang Province, China
+Chen Lab \| Westlake © 2024 Hangzhou, Zhejiang Province, China
 
 </footer>
 
