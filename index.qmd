@@ -23,5 +23,5 @@ Chen Lab \| Westlake © 2024 Zhejiang Province, China
 
 ### School of Medicine \@ Westlake University
 
-Welcome to the **Chen Lab** at Westlake University! Our lab is dedicated to advancing **pain, opioid,** and **anesthesia** research. With a unique perspective rooted in both neuroscience and anesthesiology, we combine hands-on experimental techniques with cutting-edge computational approaches to explore the neurobiology of pain, opioids, and general anesthesia. By studying these phenomena at the **circuit, cellular,** and **synaptic levels**, we aim to uncover insights that can ultimately improve patient care and outcomes.
+Welcome to the **Chen Lab** at Westlake University! Our lab is dedicated to advancing **pain, opioid,** and **anesthesia** research. With a unique perspective rooted in both neuroscience and anesthesiology, we combine hands-on experimental techniques with cutting-edge computational approaches to explore the neurobiology of pain, opioids, and general anesthesia. By exploring these clinically impactful areas at the **circuit, cellular,** and **synaptic levels**, we aim to uncover insights that can ultimately improve patient care and outcomes.
 :::
