@@ -3,7 +3,6 @@ title: "Publication"
 toc: false
 ---
 
-
 <style>
   footer {
     position: fixed;
@@ -27,7 +26,6 @@ toc: false
     transform: translateY(-50px); /* Bring footer into view */
   }
 </style>
-
 <script>
   document.addEventListener("scroll", function () {
     const footer = document.querySelector("footer");
@@ -43,26 +41,19 @@ toc: false
   });
 </script>
 
-<footer>
-  Chen Lab | Westlake © 2024
-</footer>       
+<footer>Chen Lab \| Westlake © 2024</footer>
 
 <!-- This section displays the Google Scholar and ORCiD links -->
 
-<div style="text-align: center;">
-  <a href="https://scholar.google.com/citations?user=oCdRoBoAAAAJ&hl=en" 
+::: {style="text-align: center;"}
+<a href="https://scholar.google.com/citations?user=oCdRoBoAAAAJ&hl=en" 
      style="text-decoration: underline; color: blue; margin-right: 40px; font-size: 18px;" 
-     target="_blank">
-    Google Scholar
-  </a>
-  <a href="https://orcid.org/0000-0002-8420-1410" 
+     target="_blank"> Google Scholar </a> <a href="https://orcid.org/0000-0002-8420-1410" 
      style="text-decoration: underline; color: blue; font-size: 18px;" 
-     target="_blank">
-    ORCiD
-  </a>
-</div>
+     target="_blank"> ORCiD </a>
+:::
 
---------------------------------------------------------------------
+------------------------------------------------------------------------
 
 **Before 2025**
 
