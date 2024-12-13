@@ -14,12 +14,12 @@ website:
         href: index.qmd
       - text: "News"
         href: news.qmd
+      - text: "Team"
+        href: team.qmd
       - text: "Research"
         href: research.qmd
       - text: "Approach"
         href: approach.qmd
-      - text: "Team"
-        href: team.qmd
       - text: "Publication"
         href: publication.qmd
       - text: "Join us!"
@@ -36,6 +36,15 @@ format:
     css: styles.css
     toc: true
     header-includes: |
+      <!-- Google tag (gtag.js) -->
+      <script async src="https://www.googletagmanager.com/gtag/js?id=G-LPGSNSC5VK"></script>
+      <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      
+      gtag('config', 'G-LPGSNSC5VK');
+      </script>
       <style>
       
       .navbar-brand img {
