@@ -104,7 +104,7 @@ In my laboratory, I will investigate the role of the endogenous opioid system in
 
 Anesthesia emergence (AE) represents the critical final stage of general anesthesia, marking the patient's transition from unconsciousness to wakefulness. Achieving a smooth and safe emergence is a primary goal for anesthesiologists, yet this phase can be accompanied by a range of undesirable complications, such as emergence delirium in children with an incidence of 50-80%, and delayed emergence prevalent in patients older than 60 years. Recent studies have demonstrated that the neural circuits controlling AE are distinct from those involved in anesthesia induction (Cascella et al. 2018; Tarnal et al. 2016). However, the neurobiology underlying AE remains largely unexplored.
 
-To investigate the neural substrate underlying anesthesia emergence (AE), I have utilized an activity-dependent genetic tagging technique to label neurons active during AE. This experiment has generated intriguing preliminary data (Fig.3) suggesting that numerous neurons in the dorsal raphe nucleus (DRN) display increased activity during anesthesia emergence.
+To investigate the neural substrate underlying anesthesia emergence (AE), I have utilized an activity-dependent genetic tagging technique to label neurons active during AE. This experiment has generated intriguing preliminary data (see below) suggesting that numerous neurons in the dorsal raphe nucleus (DRN) display increased activity during anesthesia emergence.
 
 These studies aim to provide valuable insights into the neurobiological mechanisms underlying AE. These findings could lead to targeted interventions enabling anesthesiologists to better control the process of AE, enhancing overall clinical care in the field of anesthesia.
 
