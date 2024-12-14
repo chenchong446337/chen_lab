@@ -55,8 +55,6 @@ toc: false
 
 ------------------------------------------------------------------------
 
-**Training**
-
 -   **Chen, C.**, Niehaus, J. K., Dinc, F., Huang, K. L., Barnette, A. L., Tassou, A., Shuster, S. A., Wang, L., Lemire, A., Menon, V., Ritola, K., Hantman, A., Zeng, H., Schnitzer, M. J., & Scherrer, G. (2024). [Neural circuit basis of placebo pain relief](https://www.nature.com/articles/s41586-024-07816-z). ***Nature***, 1–3.
 
     **Selected Press Coverage:**
