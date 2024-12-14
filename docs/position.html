@@ -189,55 +189,13 @@ gtag('config', 'G-LPGSNSC5VK');
 
 
 
-<style>
-  footer {
-    position: fixed;
-    bottom: -50px;
-    left: 0;
-    width: 100%; /* Ensure the footer spans the entire page */
-    background-color: black;
-    text-align: left;
-    padding: 10px 0;
-    color: white;
-    font-size: 14px;
-    border-top: 1px solid rgba(0, 0, 0, 0.1);
-    transition: transform 0.5s ease-in-out;
-  }
-
-  body {
-    margin: 0; /* Remove any default margin that might interfere */
-  }
-
-  footer.show {
-    transform: translateY(-50px); /* Bring footer into view */
-  }
-</style>
-<script>
-  document.addEventListener("scroll", function () {
-    const footer = document.querySelector("footer");
-    const scrollHeight = document.documentElement.scrollHeight;
-    const scrollPosition = window.innerHeight + window.scrollY;
-
-    // Check if the user has scrolled to the bottom
-    if (scrollPosition >= scrollHeight) {
-      footer.classList.add("show");
-    } else {
-      footer.classList.remove("show");
-    }
-  });
-</script>
-<footer>
-Chen Lab | Westlake © 2024 Hangzhou, Zhejiang Province, China
+<footer style="background-color: transparent; text-align: left; padding: 10px 0; color: black; font-size: 14px; border-top: 1px solid rgba(0, 0, 0, 0.1);">
+<p>Chen Lab | Westlake © 2024 Hangzhou, Zhejiang Province, China</p>
 </footer>
 <section id="we-are-recruiting" class="level2">
 <h2 class="anchored" data-anchor-id="we-are-recruiting">We are recruiting!</h2>
 <p>We are seeking graduate students and postdocs to study the neurobiology of pain, opioids, and anesthesia. First-year Ph.D.&nbsp;students at Westlake University are welcome to select our lab for rotations. Visiting scholars who can commit to staying in the lab for more than two years are also encouraged to apply. Positions for visiting students and research assistants are limited, but qualified candidates planning to pursue Ph.D.&nbsp;training in our lab are strongly encouraged to apply.</p>
-<p>Our lab is situated in a vibrant, interdisciplinary, and collaborative research environment at <a href="https://www.westlake.edu.cn/">Westlake University</a>, with opportunities for international collaborations to broaden research perspectives. If you are interested in applying, please email me with a description of your research experience and interests, along with your CV and contact information for references.</p>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="images/ad_team.png" class="img-fluid quarto-figure quarto-figure-center figure-img" alt="Ad" width="500"></p>
-</figure>
-</div>
+<p>Our lab is situated in a vibrant, interdisciplinary, and collaborative research environment at <a href="https://www.westlake.edu.cn/">Westlake University</a>, with opportunities for international collaborations to broaden research perspectives. If you are interested in applying, please <a href="mailto:chenchong@westlake.edu.cn">email</a> me with a description of your research experience and interests, along with your CV and contact information for references.</p>
 
 
 </section>
