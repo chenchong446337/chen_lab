@@ -22,6 +22,8 @@ website:
         href: approach.qmd
       - text: "Publication"
         href: publication.qmd
+      - text: "Apps"
+        href: shinyapp.qmd
       - text: "Join us!"
         href: position.qmd
       - contact.qmd
