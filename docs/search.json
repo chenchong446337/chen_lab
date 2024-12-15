@@ -53,7 +53,7 @@
     "href": "team.html#principal-investigator",
     "title": "",
     "section": "Principal Investigator",
-    "text": "Principal Investigator\n\n\n\nChong Chen MD, PhD\n\n\n chenchong@westlake.edu.cn \n\n\nDr. Chen is a neuroscientist and former anesthesiologist.\n\n\n Download CV"
+    "text": "Principal Investigator\n\n\n\nChong Chen MD, PhD\n\n\n chenchong@westlake.edu.cn \n\n\n Download CV"
   },
   {
     "objectID": "team.html#research-assistant",
@@ -179,13 +179,13 @@
     "href": "shinyapp.html#citation-network-explorer",
     "title": "",
     "section": "Citation Network Explorer",
-    "text": "Citation Network Explorer\nThe Citation Network Explorer is a user-friendly web application designed to help researchers and academics explore the citation network of one or multiple papers with ease. By simply entering the PMID of the paper(s) of interest, users can visualize and analyze the connections between citing and cited articles. This app offers valuable insights into the academic influence and connectivity of research papers in a specific field.\n\n\nYour browser does not support iframes. Please visit the app directly: &lt;a href=\"https://chenchong446337.shinyapps.io/citation_network1/\"&gt;Shiny App&lt;/a&gt;."
+    "text": "Citation Network Explorer\nThe Citation Network Explorer is a user-friendly web application designed to help researchers and academics explore the citation network of one or multiple papers with ease. By simply entering the PMID of the paper(s) of interest, users can visualize and analyze the connections between citing and cited articles. This app offers valuable insights into the academic influence and connectivity of research papers in a specific field.\n\n\n&lt;p&gt;Your browser does not support iframes. Please visit the app directly: &lt;a href=\"https://chenchong446337.shinyapps.io/citation_network1/\"&gt;Shiny App&lt;/a&gt;.&lt;/p&gt;"
   },
   {
     "objectID": "shinyapp.html#gene-co-expression-network-explorer",
     "href": "shinyapp.html#gene-co-expression-network-explorer",
     "title": "",
     "section": "Gene Co-expression Network Explorer",
-    "text": "Gene Co-expression Network Explorer\nThe Gene Co-Expression Network Explorer is an intuitive tool designed to help researchers investigate co-expression relationships between genes in a given dataset. Using the single cell RNA-Seq dataset from the Kebschull et al., 2020 paper, this app allows users to input a specific gene name and explore its co-expression network, identifying genes that are co-upregulated or co-downregulated. The app also features community detection and Gene Ontology (GO) analysis, enabling a deeper understanding of functional relationships between co-expressed genes.\n\n\nYour browser does not support iframes. Please visit the app directly: &lt;a href=\"https://chenchong446337.shinyapps.io/gene_network/\"&gt;Shiny App&lt;/a&gt;."
+    "text": "Gene Co-expression Network Explorer\nThe Gene Co-Expression Network Explorer is an intuitive tool designed to help researchers investigate co-expression relationships between genes in a given dataset. Using the single cell RNA-Seq dataset from the Kebschull et al., 2020 paper, this app allows users to input a specific gene name and explore its co-expression network, identifying genes that are co-upregulated or co-downregulated. The app also features community detection and Gene Ontology (GO) analysis, enabling a deeper understanding of functional relationships between co-expressed genes.\n\n\n&lt;p&gt;Your browser does not support iframes. Please visit the app directly: &lt;a href=\"https://chenchong446337.shinyapps.io/gene_network/\"&gt;Shiny App&lt;/a&gt;.&lt;/p&gt;"
   }
 ]

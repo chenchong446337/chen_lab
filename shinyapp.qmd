@@ -48,10 +48,11 @@ toc: false
 The Citation Network Explorer is a user-friendly web application designed to help researchers and academics explore the citation network of one or multiple papers with ease. By simply entering the PMID of the paper(s) of interest, users can visualize and analyze the connections between citing and cited articles. This app offers valuable insights into the academic influence and connectivity of research papers in a specific field.
 
 ::: {style="text-align: center;"}
-<iframe src="https://chenchong446337.shinyapps.io/citation_network1/" 
-          width="110%" 
-          height="600px" 
-          style="border: 1px solid #ccc;"> Your browser does not support iframes. Please visit the app directly: <a href="https://chenchong446337.shinyapps.io/citation_network1/">Shiny App</a>. </iframe>
+<iframe src="https://chenchong446337.shinyapps.io/citation_network1/" width="110%" height="600px" style="border: 1px solid #ccc;">
+
+Your browser does not support iframes. Please visit the app directly: <a href="https://chenchong446337.shinyapps.io/citation_network1/">Shiny App</a>.
+
+</iframe>
 :::
 
 ## Gene Co-expression Network Explorer
@@ -59,8 +60,9 @@ The Citation Network Explorer is a user-friendly web application designed to hel
 The Gene Co-Expression Network Explorer is an intuitive tool designed to help researchers investigate co-expression relationships between genes in a given dataset. Using the single cell RNA-Seq dataset from the *Kebschull et al., 2020* paper, this app allows users to input a specific gene name and explore its co-expression network, identifying genes that are co-upregulated or co-downregulated. The app also features community detection and Gene Ontology (GO) analysis, enabling a deeper understanding of functional relationships between co-expressed genes.
 
 ::: {style="text-align: center;"}
-<iframe src="https://chenchong446337.shinyapps.io/gene_network/" 
-          width="110%" 
-          height="600px" 
-          style="border: 1px solid #ccc;"> Your browser does not support iframes. Please visit the app directly: <a href="https://chenchong446337.shinyapps.io/gene_network/">Shiny App</a>. </iframe>
+<iframe src="https://chenchong446337.shinyapps.io/gene_network/" width="110%" height="600px" style="border: 1px solid #ccc;">
+
+Your browser does not support iframes. Please visit the app directly: <a href="https://chenchong446337.shinyapps.io/gene_network/">Shiny App</a>.
+
+</iframe>
 :::
