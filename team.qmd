@@ -52,6 +52,10 @@ toc: false
 
 <p><a href="mailto:chenchong@westlake.edu.cn" style="text-decoration: none; color: blue;"> chenchong\@westlake.edu.cn </a></p>
 
+<!--
+<p>Dr. Chen is a neuroscientist and former anesthesiologist.</p>
+-->
+
 <p><a href="files/CV_Chen_updated_12132024.pdf" style="text-decoration: none; color: blue;" download> Download CV </a></p>
 :::
 
