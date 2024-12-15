@@ -48,6 +48,8 @@ format:
       gtag('config', 'G-LPGSNSC5VK');
       </script>
       
+      <link rel="icon" href="images/favicon1.png" type="image/x-icon">
+      
       <style>
       
       .navbar-brand img {
