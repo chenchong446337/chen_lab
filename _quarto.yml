@@ -48,7 +48,11 @@ format:
       gtag('config', 'G-LPGSNSC5VK');
       </script>
       
+<<<<<<< HEAD
       <link rel="icon" href="images/Westlake Logo.png" type="image/x-icon" sizes="any">
+=======
+      <link rel="icon" href="images/favicon.png" type="image/x-icon" sizes="any">
+>>>>>>> 6f1ebd5320cf2cd6e7b7da5aa590d09c201e5a97
       
       <style>
       
