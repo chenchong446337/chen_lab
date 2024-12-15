@@ -137,7 +137,7 @@
     "href": "news.html",
     "title": "",
     "section": "",
-    "text": "Chen Lab | Westlake © 2024 Hangzhou, Zhejiang Province, China\n\n12.11.2024\nChong received Publication of the Year Award from the Department of Cell Biology & Physiology at UNC-chapel hill.\n11.13.2024\nChong has officially accepted an offer to join the School of Medicine at Westlake University as an Assistant Professor."
+    "text": "Chen Lab | Westlake © 2024 Hangzhou, Zhejiang Province, China"
   },
   {
     "objectID": "about.html",
@@ -187,5 +187,19 @@
     "title": "",
     "section": "Gene Co-expression Network Explorer",
     "text": "Gene Co-expression Network Explorer\nThe Gene Co-Expression Network Explorer is an intuitive tool designed to help researchers investigate co-expression relationships between genes in a given dataset. Using the single cell RNA-Seq dataset from the Kebschull et al., 2020 paper, this app allows users to input a specific gene name and explore its co-expression network, identifying genes that are co-upregulated or co-downregulated. The app also features community detection and Gene Ontology (GO) analysis, enabling a deeper understanding of functional relationships between co-expressed genes.\n\n\n&lt;p&gt;Your browser does not support iframes. Please visit the app directly: &lt;a href=\"https://chenchong446337.shinyapps.io/gene_network/\"&gt;Shiny App&lt;/a&gt;.&lt;/p&gt;"
+  },
+  {
+    "objectID": "news.html#latest-news",
+    "href": "news.html#latest-news",
+    "title": "",
+    "section": "Latest News",
+    "text": "Latest News\n\n\n\n\n12.11.2024\n\n\nChong received Publication of the Year Award from the Department of Cell Biology & Physiology at UNC-Chapel Hill.\n\n\n\n\n\n11.13.2024\n\n\nChong has officially accepted an offer to join the School of Medicine at Westlake University as an Assistant Professor."
+  },
+  {
+    "objectID": "news.html#latest-news-1",
+    "href": "news.html#latest-news-1",
+    "title": "",
+    "section": "Latest News",
+    "text": "Latest News\n\n\n\n\n12.11.2024\n\n\nChong received Publication of the Year Award from the Department of Cell Biology & Physiology at UNC-Chapel Hill.\n\n\n\n\n\n11.13.2024\n\n\nChong has officially accepted an offer to join the School of Medicine at Westlake University as an Assistant Professor."
   }
 ]
