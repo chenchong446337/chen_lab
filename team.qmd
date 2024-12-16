@@ -48,7 +48,8 @@ toc: false
 ::: {style="text-align: center;"}
 <img src="images/chong_chen.jpg" alt="Chong Chen" width="150" style="border-radius: 50%; margin-bottom: 10px;"/>
 
-<h3>Chong Chen MD, PhD</h3>
+<h3>Chong Chen M.D., Ph.D.</h3>
+<p>Assistant Professor</p> 
 
 <p><a href="mailto:chenchong@westlake.edu.cn" style="text-decoration: none; color: blue;"> chenchong\@westlake.edu.cn </a></p>
 
