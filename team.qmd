@@ -3,6 +3,7 @@ title: ""
 toc: false
 ---
 
+```{=html}
 <style>
   footer {
     position: fixed;
@@ -26,6 +27,9 @@ toc: false
     transform: translateY(-50px); /* Bring footer into view */
   }
 </style>
+```
+
+```{=html}
 <script>
   document.addEventListener("scroll", function () {
     const footer = document.querySelector("footer");
@@ -40,6 +44,7 @@ toc: false
     }
   });
 </script>
+```
 
 <footer>Chen Lab \| Westlake © 2024 Hangzhou, Zhejiang Province, China</footer>
 
@@ -48,20 +53,28 @@ toc: false
 ::: {style="text-align: center;"}
 <img src="images/chong_chen.jpg" alt="Chong Chen" width="150" style="border-radius: 50%; margin-bottom: 10px;"/>
 
-<h3>Chong Chen M.D., Ph.D.</h3>
-<p>Assistant Professor</p> 
+<h3 style="margin-bottom: 0;">Chong Chen M.D., Ph.D.</h3>
+<p style="margin-top: 0;margin-bottom: 4px;">Assistant Professor</p>
 
-<p><a href="mailto:chenchong@westlake.edu.cn" style="text-decoration: none; color: blue;"> chenchong\@westlake.edu.cn </a></p>
 
+<p style=" margin-bottom: 0px;">
+  <a href="mailto:chenchong@westlake.edu.cn" style="text-decoration: none; color: blue;">chenchong@westlake.edu.cn</a>
+</p>
+
+```{=html}
 <!--
 <p>Dr. Chen is a neuroscientist and former anesthesiologist.</p>
 -->
+```
 
-<p><a href="files/CV_Chen_updated_12132024.pdf" style="text-decoration: none; color: blue;" download> Download CV </a></p>
+<p style="margin-top: 0; margin-bottom: 0;">
+  <a href="files/CV_Chen_updated_12132024.pdf" style="text-decoration: none; color: blue;" download>Download CV</a>
+</p>
 :::
 
 <!-- Commenting out everything from here -->
 
+```{=html}
 <!--
 ## Research Assistant
 
@@ -84,3 +97,4 @@ toc: false
 ## Visiting students
 
 -->
+```
