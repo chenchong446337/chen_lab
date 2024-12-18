@@ -3,6 +3,7 @@ title: "Publication"
 toc: false
 ---
 
+```{=html}
 <style>
   footer {
     position: fixed;
@@ -26,6 +27,9 @@ toc: false
     transform: translateY(-50px); /* Bring footer into view */
   }
 </style>
+```
+
+```{=html}
 <script>
   document.addEventListener("scroll", function () {
     const footer = document.querySelector("footer");
@@ -40,6 +44,7 @@ toc: false
     }
   });
 </script>
+```
 
 <footer>Chen Lab \| Westlake © 2024 Hangzhou, Zhejiang Province, China</footer>
 
@@ -77,18 +82,18 @@ toc: false
 
 -   Chen, J.\**, Kaufmann, W.\**, **Chen, C.**, Arai, I., Kim, O., Shigemoto, R., Jonas, P. (2024). [Developmental transformation of Ca2+ channel-vesicle nanotopography at a central GABAergic synapse.](https://www.cell.com/neuron/fulltext/S0896-6273(23)00930-3) ***Neuron***. https://doi.org/10.1016/j.neuron.2023.12.002 \*Equal contribution
 
--   **Chen, C.\***, Tassou, A., Morales, V., & Scherrer, G.\* (2023). [Graph theory analysis reveals an assortative pain network vulnerable to attacks.](https://www.nature.com/articles/s41598-023-49458-7#:~:text=Graph%20theory%20analysis%20of%20this,and%20separated%20the%20two%20known) Scientific Reports, 13(1), 21985. \*Corresponding author
+-   **Chen, C.\***, Tassou, A., Morales, V., & Scherrer, G.\* (2023). [Graph theory analysis reveals an assortative pain network vulnerable to attacks.](https://www.nature.com/articles/s41598-023-49458-7#:~:text=Graph%20theory%20analysis%20of%20this,and%20separated%20the%20two%20known) ***Scientific Reports***, 13(1), 21985. \*Corresponding author
 
--   Li, S.-B.\*, Damonte, V. M.\*, **Chen, C.**, Wang, G. X., Kebschull, J. M., Yamaguchi, H., Bian, W.-J., Purmann, C., Pattni, R., Urban, A. E., Mourrain, P., Kauer, J. A., Scherrer, G., & de Lecea, L. (2022). [Hyperexcitable arousal circuits drive sleep instability during aging](https://pubmed.ncbi.nlm.nih.gov/35201886/). Science, 375(6583), eabh3021. \* Equal contribution
+-   Li, S.-B.\*, Damonte, V. M.\*, **Chen, C.**, Wang, G. X., Kebschull, J. M., Yamaguchi, H., Bian, W.-J., Purmann, C., Pattni, R., Urban, A. E., Mourrain, P., Kauer, J. A., Scherrer, G., & de Lecea, L. (2022). [Hyperexcitable arousal circuits drive sleep instability during aging](https://pubmed.ncbi.nlm.nih.gov/35201886/). ***Science***, 375(6583), eabh3021. \* Equal contribution
 
--   Mercer Lindsay, N., **Chen, C.**, Gilam, G., Mackey, S., & Scherrer, G. (2021). [Brain circuits for pain and its treatment](https://pubmed.ncbi.nlm.nih.gov/34757810/). Science Translational Medicine, 13(619), eabj7360.
+-   Mercer Lindsay, N., **Chen, C.**, Gilam, G., Mackey, S., & Scherrer, G. (2021). [Brain circuits for pain and its treatment](https://pubmed.ncbi.nlm.nih.gov/34757810/). ***Science Translational Medicine***, 13(619), eabj7360.
 
--   **Chen, C.**, Satterfield, R., Young, S. M., Jr, & Jonas, P. (2017). [Triple Function of Synaptotagmin 7 Ensures Efficiency of High-Frequency Transmission at Central GABAergic Synapses.](https://pubmed.ncbi.nlm.nih.gov/29166601/) Cell Reports, 21(8), 2082–2089.
+-   **Chen, C.**, Satterfield, R., Young, S. M., Jr, & Jonas, P. (2017). [Triple Function of Synaptotagmin 7 Ensures Efficiency of High-Frequency Transmission at Central GABAergic Synapses.](https://pubmed.ncbi.nlm.nih.gov/29166601/) ***Cell Reports***, 21(8), 2082–2089.
 
--   **Chen, C.**, & Jonas, P. (2017).[Synaptotagmins: That’s Why So Many.](https://pubmed.ncbi.nlm.nih.gov/28521120/) Neuron, 94(4), 694–696.
+-   **Chen, C.**, & Jonas, P. (2017).[Synaptotagmins: That’s Why So Many.](https://pubmed.ncbi.nlm.nih.gov/28521120/) ***Neuron***, 94(4), 694–696.
 
--   **Chen, C.**, Arai, I., Satterfield, R., Young, S. M., Jr, & Jonas, P. (2017). [Synaptotagmin 2 Is the Fast Ca2+ Sensor at a Central Inhibitory Synapse](https://pubmed.ncbi.nlm.nih.gov/28099850/). Cell Reports, 18(3), 723–736.
+-   **Chen, C.**, Arai, I., Satterfield, R., Young, S. M., Jr, & Jonas, P. (2017). [Synaptotagmin 2 Is the Fast Ca2+ Sensor at a Central Inhibitory Synapse](https://pubmed.ncbi.nlm.nih.gov/28099850/). ***Cell Reports***, 18(3), 723–736.
 
--   Shen, F.-Y., Chen, Z.-Y., Zhong, W., Ma, L.-Q., **Chen, C.**, Yang, Z.-J., Xie, W.-L., & Wang, Y.-W. (2015). [Alleviation of neuropathic pain by regulating T-type calcium channels in rat anterior cingulate cortex](https://pubmed.ncbi.nlm.nih.gov/25885031/). Molecular Pain, 11, 7.
+-   Shen, F.-Y., Chen, Z.-Y., Zhong, W., Ma, L.-Q., **Chen, C.**, Yang, Z.-J., Xie, W.-L., & Wang, Y.-W. (2015). [Alleviation of neuropathic pain by regulating T-type calcium channels in rat anterior cingulate cortex](https://pubmed.ncbi.nlm.nih.gov/25885031/). ***Molecular Pain***, 11, 7.
 
--   **Chen, C.**, Shen, F.-Y., Zhao, X., Zhou, T., Xu, D.-J., Wang, Z.-R., & Wang, Y.-W. (2015).[Low-dose sevoflurane promotes hippocampal neurogenesis and facilitates the development of dentate gyrus-dependent learning in neonatal rats](https://pubmed.ncbi.nlm.nih.gov/25873307/). ASN Neuro, 7(2).
+-   **Chen, C.**, Shen, F.-Y., Zhao, X., Zhou, T., Xu, D.-J., Wang, Z.-R., & Wang, Y.-W. (2015).[Low-dose sevoflurane promotes hippocampal neurogenesis and facilitates the development of dentate gyrus-dependent learning in neonatal rats](https://pubmed.ncbi.nlm.nih.gov/25873307/). ***ASN Neuro***, 7(2).
