@@ -87,7 +87,7 @@ Whole-cell patch clamp is a technique to study ion channel activity and cellular
 
   <!-- Third Image -->
   <figure style="text-align: center; width: 34%;">
-    <img src="images/animation.gif" alt="Image 2 description" style="width: 100%; height: auto;"/>
+    <img src="images/animation1.gif" alt="Image 2 description" style="width: 100%; height: auto;"/>
   </figure>
 </div>
 
