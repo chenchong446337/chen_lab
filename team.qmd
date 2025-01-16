@@ -68,7 +68,7 @@ toc: false
 ```
 
 <p style="margin-top: 0; margin-bottom: 0;">
-  <a href="files/CV_Chen_updated_12132024.pdf" style="text-decoration: none; color: blue;" download>Download CV</a>
+  <a href="files/CV_Chen_updated_01152025.pdf" style="text-decoration: none; color: blue;" download>Download CV</a>
 </p>
 :::
 
