@@ -3,6 +3,7 @@ title: ""
 toc: false
 ---
 
+```{=html}
 <style>
   body {
     background-image: url('images/brain.gif');
@@ -11,6 +12,7 @@ toc: false
     background-position: center;
   }
 </style>
+```
 
 <footer style="background-color: transparent; text-align: left; padding: 10px 0; color: black; font-size: 14px; border-top: 1px solid rgba(0, 0, 0, 0.1);">
 
