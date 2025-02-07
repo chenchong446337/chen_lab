@@ -3,6 +3,7 @@ title: ""
 toc: false
 ---
 
+```{=html}
 <style>
   footer {
     position: fixed;
@@ -26,6 +27,9 @@ toc: false
     transform: translateY(-50px); /* Bring footer into view */
   }
 </style>
+```
+
+```{=html}
 <script>
   document.addEventListener("scroll", function () {
     const footer = document.querySelector("footer");
@@ -40,8 +44,9 @@ toc: false
     }
   });
 </script>
+```
 
-<footer>Chen Lab \| Westlake © 2024 Hangzhou, Zhejiang Province, China</footer>
+<footer>Chen Lab \| Westlake © 2025 Hangzhou, Zhejiang Province, China</footer>
 
 ## Citation Network Explorer
 

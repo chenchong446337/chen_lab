@@ -46,19 +46,29 @@ toc: false
 </script>
 ```
 
-<footer>Chen Lab \| Westlake © 2024 Hangzhou, Zhejiang Province, China</footer>
+<footer>Chen Lab \| Westlake © 2025 Hangzhou, Zhejiang Province, China</footer>
 
 ## Principal Investigator
 
 ::: {style="text-align: center;"}
 <img src="images/chong_chen.jpg" alt="Chong Chen" width="150" style="border-radius: 50%; margin-bottom: 10px;"/>
 
-<h3 style="margin-bottom: 0;">Chong Chen M.D., Ph.D.</h3>
-<p style="margin-top: 0;margin-bottom: 4px;">Assistant Professor</p>
+<h3 style="margin-bottom: 0;">
 
+Chong Chen M.D., Ph.D.
+
+</h3>
+
+<p style="margin-top: 0;margin-bottom: 4px;">
+
+Assistant Professor
+
+</p>
 
 <p style=" margin-bottom: 0px;">
-  <a href="mailto:chenchong@westlake.edu.cn" style="text-decoration: none; color: blue;">chenchong@westlake.edu.cn</a>
+
+<a href="mailto:chenchong@westlake.edu.cn" style="text-decoration: none; color: blue;">chenchong\@westlake.edu.cn</a>
+
 </p>
 
 ```{=html}
@@ -68,9 +78,13 @@ toc: false
 ```
 
 <p style="margin-top: 0; margin-bottom: 0;">
-  <a href="files/CV_Chen_updated_01152025.pdf" style="text-decoration: none; color: blue;" download>Download CV</a>
+
+<a href="files/CV_Chen_updated_01152025.pdf" style="text-decoration: none; color: blue;" download>Download CV</a>
+
 </p>
 :::
+
+## Staffs
 
 <!-- Commenting out everything from here -->
 
