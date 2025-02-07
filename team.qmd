@@ -51,64 +51,69 @@ toc: false
 ## Principal Investigator
 
 ::: {style="text-align: center;"}
-<img src="images/chong_chen.jpg" alt="Chong Chen" width="150" style="border-radius: 50%; margin-bottom: 10px;"/>
+<img src="images/chong_chen.jpg" alt="Chong Chen" width="150" style="border-radius: 50%; margin-bottom: 5px;"/>
 
-<h3 style="margin-bottom: 0;">
-
-Chong Chen M.D., Ph.D.
-
+<h3 style="margin: 0; font-size: 20px;">
+    Chong Chen, M.D., Ph.D.
 </h3>
 
-<p style="margin-top: 0;margin-bottom: 4px;">
-
-Assistant Professor
-
+<p style="margin: 3px 0 0 0; font-size: 16px; font-weight: normal;">
+    Assistant Professor
 </p>
 
-<p style=" margin-bottom: 0px;">
-
-<a href="mailto:chenchong@westlake.edu.cn" style="text-decoration: none; color: blue;">chenchong\@westlake.edu.cn</a>
-
+<p style="margin: 5px 0 0 0; font-size: 16px;">
+    <a href="mailto:chenchong@westlake.edu.cn" style="text-decoration: none; color: blue;">
+        chenchong@westlake.edu.cn
+    </a>
 </p>
 
-```{=html}
-<!--
-<p>Dr. Chen is a neuroscientist and former anesthesiologist.</p>
--->
-```
-
-<p style="margin-top: 0; margin-bottom: 0;">
-
-<a href="files/CV_Chen_updated_01152025.pdf" style="text-decoration: none; color: blue;" download>Download CV</a>
-
+<p style="margin: 0 0 0 0; font-size: 16px;">
+    <a href="files/CV_Chen_updated_01152025.pdf" style="text-decoration: none; color: blue;" download>
+        Download CV
+    </a>
 </p>
 :::
+
+<!-- Add new members' info below -->
 
 ## Staffs
 
-<!-- Commenting out everything from here -->
-
-```{=html}
-<!--
-## Research Assistant
-
-## Postdoctoral Fellows (Examples now)
-
 ::: {style="text-align: center;"}
-+:----------------------------------------------------------------------:+:--------------------------------------------------------------------------:+:------------------------------------------------------------------------------:+
-| ![Dr. Jane Doe](images/postdoc1.jpg)                                   | ![Dr. John Smith](images/postdoc2.jpg)                                     | ![Dr. Alice Brown](images/postdoc3.jpg)                                        |
-|                                                                        |                                                                            |                                                                                |
-| ### Dr. Jane Doe                                                       | ### Dr. John Smith                                                         | ### Dr. Alice Brown                                                            |
-|                                                                        |                                                                            |                                                                                |
-| [jane.doe\@westlake.edu.cn](mailto:jane.doe@westlake.edu.cn)           | [john.smith\@westlake.edu.cn](mailto:john.smith@westlake.edu.cn)           | [alice.brown\@westlake.edu.cn](mailto:alice.brown@westlake.edu.cn)             |
-|                                                                        |                                                                            |                                                                                |
-| Dr. Jane Doe specializes in cerebellar research and placebo analgesia. | Dr. John Smith focuses on opioid addiction resilience and pain perception. | Dr. Alice Brown investigates cerebellar involvement in pain and motor control. |
-+------------------------------------------------------------------------+----------------------------------------------------------------------------+--------------------------------------------------------------------------------+
+<table style="border-collapse: collapse; width: 100%; border: none;">
+    <tr style="border: none;">
+        <td style="border: none; padding: 10px;">
+            <img src="images/zixuan.jpg" alt="Zixuan Zhuang" width="150" style="border-radius: 50%; margin-bottom: 10px;"/>
+        </td>
+        <td style="border: none; padding: 10px; width: 150px;"></td>
+        <td style="border: none; padding: 10px; width: 150px;"></td>
+    </tr>
+    <tr style="border: none;">
+        <td style="border: none; font-size: 20px; font-weight: bold;">Zixuan Zhuang</td>
+        <td style="border: none;"></td>
+        <td style="border: none;"></td>
+    </tr>
+    <tr style="border: none;">
+        <td style="border: none; font-size: 16px; font-weight: normal;">Administrative Assistant</td>
+        <td style="border: none;"></td>
+        <td style="border: none;"></td>
+    </tr>
+    <tr style="border: none;">
+        <td style="border: none; padding-top: 5px;">
+            <a href="mailto:zhuangzixuan@westlake.edu.cn" style="text-decoration: none; color: blue; font-size: 16px;">
+                zhuangzixuan@westlake.edu.cn
+            </a>
+        </td>
+        <td style="border: none;"></td>
+        <td style="border: none;"></td>
+    </tr>
+</table>
 :::
 
+
+
+<!--
 ## PhD Students
 
 ## Visiting students
-
 -->
-```
+
