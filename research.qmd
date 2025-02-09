@@ -3,6 +3,7 @@ title: ""
 toc: false
 ---
 
+```{=html}
 <style>
   footer {
     position: fixed;
@@ -26,6 +27,9 @@ toc: false
     transform: translateY(-50px); /* Bring footer into view */
   }
 </style>
+```
+
+```{=html}
 <script>
   document.addEventListener("scroll", function () {
     const footer = document.querySelector("footer");
@@ -40,6 +44,7 @@ toc: false
     }
   });
 </script>
+```
 
 <footer>Chen Lab \| Westlake © 2025 Hangzhou, Zhejiang Province, China</footer>
 
@@ -48,8 +53,7 @@ toc: false
 
 My career began in the demanding setting of an operating room, where I became deeply intrigued by the powerful and somewhat mysterious nature of general anesthesia. This fascination led me to transition from anesthesiology to neuroscience, aiming to make my own contribution to our understanding of the intricately interconnected neurobiology of pain, opioids, and anesthesia.
 
-
-This fascination was profoundly deepened by a personal and unforgettable experience—witnessing anesthesia awareness, one of the most harrowing complications in general anesthesia. If you’re not familiar with anesthesia awareness, I encourage you to watch the trailer for the movie **Awake** below. It conveys how truly distressing and traumatic this experience can be.
+This fascination was profoundly deepened by a personal and unforgettable experience—witnessing anesthesia awareness, one of the most harrowing complications in general anesthesia. If you’re not familiar with anesthesia awareness, I encourage you to watch the trailer for the movie **Awake** below (<u>make sure to turn on the audio</u>). It conveys how truly distressing and traumatic this experience can be.
 
 <figure style="text-align: left;">
 
@@ -72,6 +76,7 @@ After 10 years of training in neuroscience, I have acquired a diverse range of c
 <strong>The cerebellum in pain</strong>
 
 <p>
+
 My postdoctoral work revealed the involvement of the cerebellum in placebo analgesia, aligning with a growing body of evidence demonstrating cerebellar activation during pain (Michelle Welman et al., 2018; Moulton et al., 2010). However, an intriguing question arises: How does the cerebellum, a brain structure primarily associated with motor functions, participate in pain perception? In my laboratory, I will continue to explore the role of the cerebellum, as well as the endogenous opioid system within the cerebellum (see below), in placebo analgesia. Additionally, I will investigate how the cerebellum contributes to pain sensation and pain chronification.
 
 By exploring the role of the cerebellum in pain perception, we could not only challenge traditional paradigms and offer new perspectives on neural processing, but open new avenues for pain management and therapeutic interventions.
@@ -87,9 +92,10 @@ By exploring the role of the cerebellum in pain perception, we could not only ch
 <strong>Endogenous opioid system in the cerebellum for pain and mental disorders</strong>
 
 <p>
+
 Traditionally, the cerebellum was considered a negative control for opioid expression. However, recent single-cell RNA sequencing data, along with my histological findings (see below), confirm the expression of various opioid peptides and receptors in the cerebellum. Whether they play a significant role in pain perception remains unclear. Additionally, growing evidence implicates the endogenous opioid system in anxiety and depression (Peciña et al., 2019). For instance, global DOR knockout mice exhibit anxiety and depression symptoms (Filliol et al., 2000), while the removal of DOR specifically from inhibitory neurons in the forebrain induces anxiety phenotypes (Chu Sin Chung et al., 2015). This highlights the multifaceted roles of DOR+ neurons across different brain regions and neuron types in the context of anxiety and depression. Interestingly, DOR+ neurons in the cerebellum are excitatory, which may contribute to the antidepressant effect observed in global DOR knockout mice.
 
-In my laboratory, I will investigate the role of the endogenous opioid system in the cerebellum in relation to pain, several mental disorders, and addiction, which could significantly advance our understanding of the role of the cerebellum in these non-motor functions and potentially lead to novel therapeutic targets. 
+In my laboratory, I will investigate the role of the endogenous opioid system in the cerebellum in relation to pain, several mental disorders, and addiction, which could significantly advance our understanding of the role of the cerebellum in these non-motor functions and potentially lead to novel therapeutic targets.
 
 </p>
 
@@ -109,7 +115,6 @@ To investigate the neural substrate underlying anesthesia emergence (AE), I have
 
 These studies aim to provide valuable insights into the neurobiological mechanisms underlying AE. These findings could lead to targeted interventions enabling anesthesiologists to better control the process of AE, enhancing overall clinical care in the field of anesthesia.
 
-
 </p>
 
 <img src="images/Anesthesia.png" alt="Anesthesia" width="200" style="display: block; margin: auto;"/>
@@ -117,4 +122,4 @@ These studies aim to provide valuable insights into the neurobiological mechanis
 </li>
 
 </ol>
-
+:::

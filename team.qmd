@@ -76,7 +76,7 @@ toc: false
 
 <!-- Add new members' info below -->
 
-## Staffs
+## Team Members
 
 ::: {style="text-align: center;"}
 <table style="border-collapse: collapse; width: 100%; border: none;">
