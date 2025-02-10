@@ -122,4 +122,16 @@ These studies aim to provide valuable insights into the neurobiological mechanis
 </li>
 
 </ol>
-:::
+----
+
+<p style="text-align: center; font-weight: bold; font-size: 18px;">
+We are grateful for the generous support from the following funding organizations for our research
+</p>
+
+
+<p style="text-align: center;">
+    <img src="images/Two_signatures.png" alt="Westlake" style="height: 60px;">
+    <img src="images/IARS.jpg" alt="IARS" style="height: 60px;">
+</p>
+
+
