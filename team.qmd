@@ -54,7 +54,7 @@ toc: false
 <img src="images/chong_chen.jpg" alt="Chong Chen" width="150" style="border-radius: 50%; margin-bottom: 5px;"/>
 
 <h3 style="margin: 0; font-size: 18px;">
-    Chong Chen, M.D., Ph.D.
+    Chong Chen (陈冲), M.D., Ph.D.
 </h3>
 
 <p style="margin: 3px 0 0 0; font-size: 16px; font-weight: normal;">
@@ -88,7 +88,7 @@ toc: false
         <td style="border: none; padding: 10px; width: 150px;"></td>
     </tr>
     <tr style="border: none;">
-        <td style="border: none; font-size: 18px; font-weight: bold;">Zixuan Zhuang</td>
+        <td style="border: none; font-size: 18px; font-weight: bold;">Zixuan Zhuang （庄子璇）</td>
         <td style="border: none;"></td>
         <td style="border: none;"></td>
     </tr>
