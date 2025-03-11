@@ -24,6 +24,12 @@ Chen Lab \| Westlake © 2025 Hangzhou, Zhejiang Province, China
 
 :::: {style="font-family: Arial, sans-serif; line-height: 1.6;"}
 ::: {style="border: 1px solid #ddd; padding: 15px; border-radius: 5px; background-color: #f9f9f9; margin-bottom: 10px;"}
+
+**📅 03.11.2025**\
+We are excited to welcome **Wenhui Tao** and **Chan Yang** as our Research Assistant! 
+<br> <!-- Adds a safe blank line --> 
+---
+
 **📅 02.01.2025**\
 We are excited to welcome **Zixuan Zhuang** as our Administrative Assistant! 
 <br> <!-- Adds a safe blank line --> 
