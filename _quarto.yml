@@ -52,7 +52,7 @@ format:
       <style>
       
       .navbar-brand img {
-          height: 70px !important; /* Adjust height as needed */
+          height: 60px !important; /* Adjust height as needed */
           width: auto !important;  /* Maintain aspect ratio */
           max-height: none !important; /* Remove max-height constraints */
           max-width: none !important; /* Remove max-width constraints */
