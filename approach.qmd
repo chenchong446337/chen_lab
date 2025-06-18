@@ -3,6 +3,7 @@ title: ""
 toc: false
 ---
 
+```{=html}
 <style>
   footer {
     position: fixed;
@@ -26,6 +27,9 @@ toc: false
     transform: translateY(-50px); /* Bring footer into view */
   }
 </style>
+```
+
+```{=html}
 <script>
   document.addEventListener("scroll", function () {
     const footer = document.querySelector("footer");
@@ -40,9 +44,9 @@ toc: false
     }
   });
 </script>
+```
 
 <footer>Chen Lab \| Westlake © 2025 Hangzhou, Zhejiang Province, China</footer>
-
 
 ## Experimental approaches
 
@@ -51,7 +55,7 @@ toc: false
 The lab mainly use miniscope for Ca2+ imaging experiments. The miniscope is a compact, head-mounted fluorescence microscope designed for in vivo Ca²⁺ imaging in freely moving mice. It enables real-time observation of neuronal activity at the cellular level, offering high spatial and temporal resolution. The miniscope's lightweight and portable design minimizes behavioral interference, making it ideal for studying neural circuits in naturalistic settings. It allows for long-term recordings in freely behaving animals, capturing the dynamics of neural activity during complex tasks.
 
 |  |  |
-|------------------------------------|------------------------------------|
+|----|----|
 | <video controls autoplay muted loop style="width: 2in; height: auto; border: 1px solid #ccc;"> <source src="videos/output.mp4" type="video/mp4"> Your browser does not support the video tag. Try downloading it instead: [Download the video](videos/output.mp4). </video> | <img src="images/ACC_ca.png" alt="Miniscope Surgery" style="width: 5.2in; height: auto;"/> |
 
 <!-- for the behavior video -->
@@ -63,66 +67,82 @@ The lab mainly use miniscope for Ca2+ imaging experiments. The miniscope is a co
 <source src="videos/combined_video_D6.mp4" type="video/mp4">
 
 Your browser does not support the video tag. Try downloading it instead: <a href="videos/combined_video_D6.mp4">Download the video</a>. </video>
-  <figcaption style="font-size: 14px; color: gray;">
-  In vivo calcium imaging of neuronal activity in freely moving mice (Chen et al., 2024).
-  </figcaption>
+
+<figcaption style="font-size: 14px; color: gray;">
+
+In vivo calcium imaging of neuronal activity in freely moving mice (Chen et al., 2024).
+
+</figcaption>
+
 </figure>
 
 **Electrophysiology (paired recording)**
 
 Whole-cell patch clamp is a technique to study ion channel activity and cellular electrical properties. Paired whole-cell recordings, where two cells are simultaneously patched, allow precise analysis of synaptic transmission and connectivity. This approach enables researchers to measure pre- and postsynaptic responses in real-time, offering insights into circuit dynamics, synaptic strength, and plasticity. Advantages include high temporal and spatial resolution, the ability to control intracellular environments, and direct access to synaptic interactions. It is particularly valuable in neuroscience for investigating synaptic transmission, synaptic plasticity, and functional connectivity.
 
-::: {style="display: flex; flex-direction: column; align-items: center; margin-top: 20px;"}
+:::: {style="display: flex; flex-direction: column; align-items: center; margin-top: 20px;"}
+::: {style="display: flex; justify-content: center; gap: 20px; align-items: flex-start;"}
+<!-- First Image -->
 
-<div style="display: flex; justify-content: center; gap: 20px; align-items: flex-start;">
-  <!-- First Image -->
-  <figure style="text-align: center; width: 28%;">
-    <img src="images/BC_firing.png" alt="Image 1 description" style="width: 100%; height: auto;"/>
-  </figure>
+<figure style="text-align: center; width: 28%;">
 
-  <!-- Second Image -->
-  <figure style="text-align: center; width: 32%;">
-    <img src="images/pair.png" alt="paired recording" style="width: 100%; height: auto;"/>
-  </figure>
+<img src="images/BC_firing.png" alt="Image 1 description" style="width: 100%; height: auto;"/>
 
-  <!-- Third Image -->
-  <figure style="text-align: center; width: 34%;">
-    <img src="images/animation1.gif" alt="Image 2 description" style="width: 100%; height: auto;"/>
-  </figure>
-</div>
+</figure>
 
-<figcaption style="text-align: center; font-size: 14px; color: gray; margin-top: 10px;">
-Paired recording of connected basket cells (BC) and Purkinje cells (PC) in the cerebellum, showing both their activity and how BC firing influences PC firing (Chen et al., 2017a,b).
-</figcaption>
+<!-- Second Image -->
 
+<figure style="text-align: center; width: 32%;">
+
+<img src="images/pair.png" alt="paired recording" style="width: 100%; height: auto;"/>
+
+</figure>
+
+<!-- Third Image -->
+
+<figure style="text-align: center; width: 34%;">
+
+<img src="images/animation1.gif" alt="Image 2 description" style="width: 100%; height: auto;"/>
+
+</figure>
 :::
 
+<figcaption style="text-align: center; font-size: 14px; color: gray; margin-top: 10px;">
+
+Paired recording of connected basket cells (BC) and Purkinje cells (PC) in the cerebellum, showing both their activity and how BC firing influences PC firing (Chen et al., 2017a,b).
+
+</figcaption>
+::::
 
 **Viral neuronal tracing**
 
 Viral tracing is a powerful technique to map neural circuits by utilizing genetically engineered viruses to label neurons and their connections. Anterograde tracing labels downstream targets by transporting the virus from the cell body along axons to synaptic terminals, revealing outputs of specific neurons. Retrograde tracing, on the other hand, maps inputs by transporting the virus from axon terminals back to the originating cell bodies, identifying presynaptic neurons. Advanced viral tools, such as rabies and AAV vectors, enable cell-type-specific tracing, functional manipulation, and circuit mapping at single-neuron resolution, providing insights into the organization and connectivity of complex neural networks.
 
-::: {style="display: flex; flex-direction: column; align-items: center; margin-top: 20px;"}
+:::: {style="display: flex; flex-direction: column; align-items: center; margin-top: 20px;"}
+::: {style="display: flex; justify-content: center; gap: 20px; align-items: flex-start;"}
+<!-- First Image -->
 
-<div style="display: flex; justify-content: center; gap: 20px; align-items: flex-start;">
-  <!-- First Image -->
-  <figure style="text-align: center; width: 45%;">
-    <img src="images/An_tracing.png" alt="AAV-mediated anterograde tracing" style="width: 100%; height: auto;"/>
-  </figure>
+<figure style="text-align: center; width: 45%;">
 
-  <!-- Second Image -->
-  <figure style="text-align: center; width: 45%;">
-    <img src="images/Re_tracing.png" alt="Rabies virus-mediated retrograde tracing" style="width: 100%; height: auto;"/>
-  </figure>
-</div>
+<img src="images/An_tracing.png" alt="AAV-mediated anterograde tracing" style="width: 100%; height: auto;"/>
 
-<figcaption style="text-align: center; font-size: 14px; color: gray; margin-top: 10px;">
-AAV-mediated anterograde tracing (left) and rabies virus-mediated retrograde tracing (right) (Chen et al., 2024).
-</figcaption>
+</figure>
 
+<!-- Second Image -->
+
+<figure style="text-align: center; width: 45%;">
+
+<img src="images/Re_tracing.png" alt="Rabies virus-mediated retrograde tracing" style="width: 100%; height: auto;"/>
+
+</figure>
 :::
 
+<figcaption style="text-align: center; font-size: 14px; color: gray; margin-top: 10px;">
 
+AAV-mediated anterograde tracing (left) and rabies virus-mediated retrograde tracing (right) (Chen et al., 2024).
+
+</figcaption>
+::::
 
 **Activity-dependent genetic labeling**
 
@@ -134,9 +154,12 @@ Activity-dependent tagging methods, such as TRAP (Targeted Recombination in Acti
 <figure style="text-align: center; width: 70%;">
 
 <img src="images/TRAP.png" alt="TRAP" style="width: 100%; height: auto;"/>
-  <figcaption style="font-size: 14px; color: gray;">
-  Labeling neurons active during pain stimulation using TRAP2 mice (Chen et al., 2023).
-  </figcaption>
+
+<figcaption style="font-size: 14px; color: gray;">
+
+Labeling neurons active during pain stimulation using TRAP2 mice (Chen et al., 2023).
+
+</figcaption>
 
 </figure>
 :::
@@ -152,9 +175,11 @@ Single-cell RNA sequencing (scRNA-seq) is a cutting-edge method for analyzing ge
 
 <img src="images/RNA.png" alt="RNA_seq" style="width: 100%; height: auto;"/>
 
-  <figcaption style="font-size: 14px; color: gray;">
-  Classifying Pn neurons based on their transcriptomic profiles (Chen et al., 2024).
-  </figcaption>
+<figcaption style="font-size: 14px; color: gray;">
+
+Classifying Pn neurons based on their transcriptomic profiles (Chen et al., 2024).
+
+</figcaption>
 
 </figure>
 :::
@@ -169,9 +194,12 @@ Optogenetics and chemogenetics are advanced tools for manipulating neuronal acti
 <figure style="text-align: center; width: 100%;">
 
 <img src="images/Opto.png" alt="RNA_seq" style="width: 100%; height: auto;"/>
-  <figcaption style="font-size: 14px; color: gray;">
- Manipulating neuronal activity using optogenetics in both in vivo and in vitro settings (Chen et al., 2024).
-  </figcaption>
+
+<figcaption style="font-size: 14px; color: gray;">
+
+Manipulating neuronal activity using optogenetics in both in vivo and in vitro settings (Chen et al., 2024).
+
+</figcaption>
 
 </figure>
 :::
@@ -186,10 +214,15 @@ Markerless animal pose estimation, like [DeepLabCut,](https://www.mackenziemathi
 <!-- First Image -->
 
 <figure style="text-align: center; width: 60%;">
-  <img src="images/deeplabcut.png" alt="RNA_seq" style="width: 100%; height: auto;"/>
-  <figcaption style="font-size: 14px; color: gray;">
-    Image source: DeepLabCut official website.
-  </figcaption>
+
+<img src="images/deeplabcut.png" alt="RNA_seq" style="width: 100%; height: auto;"/>
+
+<figcaption style="font-size: 14px; color: gray;">
+
+Image source: DeepLabCut official website.
+
+</figcaption>
+
 </figure>
 :::
 
@@ -203,9 +236,12 @@ Graph theory is a branch of mathematics focused on studying graphs, which consis
 <figure style="text-align: center; width: 100%;">
 
 <img src="images/network.png" alt="network" style="width: 100%; height: auto;"/>
-  <figcaption style="font-size: 14px; color: gray;">
-    Employing graph theory to systematically characterize the architecture of a comprehensive pain network (Chen et al., 2023).
-  </figcaption>
+
+<figcaption style="font-size: 14px; color: gray;">
+
+Employing graph theory to systematically characterize the architecture of a comprehensive pain network (Chen et al., 2023).
+
+</figcaption>
 
 </figure>
 :::
@@ -220,11 +256,12 @@ Machine learning (ML) and deep learning (DL) are transformative tools in neurosc
 <figure style="text-align: center; width: 100%;">
 
 <img src="images/machinelearning.png" alt="ML" style="width: 100%; height: auto;"/>
-  <figcaption style="font-size: 14px; color: gray;">
-  Classifying neurons based on their activity using machine learning algorithms (Chen et al., 2024).
-  </figcaption>
+
+<figcaption style="font-size: 14px; color: gray;">
+
+Classifying neurons based on their activity using machine learning algorithms (Chen et al., 2024).
+
+</figcaption>
 
 </figure>
 :::
-
-
