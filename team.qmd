@@ -1,15 +1,15 @@
 ---
 title: ""
+output: html_document
 toc: false
 ---
-
 ```{=html}
 <style>
   footer {
     position: fixed;
     bottom: -50px;
     left: 0;
-    width: 100%; /* Ensure the footer spans the entire page */
+    width: 100%;
     background-color: black;
     text-align: left;
     padding: 10px 0;
@@ -20,23 +20,71 @@ toc: false
   }
 
   body {
-    margin: 0; /* Remove any default margin that might interfere */
+    margin: 0;
   }
 
   footer.show {
-    transform: translateY(-50px); /* Bring footer into view */
+    transform: translateY(-50px);
+  }
+
+  .profile {
+    text-align: center;
+    margin-bottom: 40px;
+  }
+
+  .profile img {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    object-fit: cover;
+    margin-bottom: 10px;
+  }
+
+  .team-container {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 40px;
+    margin-top: 30px;
+  }
+
+  .member-card {
+    text-align: center;
+    width: 200px;
+  }
+
+  .member-card img {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    object-fit: cover;
+    margin-bottom: 10px;
+  }
+
+  .member-card h4 {
+    margin: 5px 0 2px;
+    font-size: 16px;
+  }
+
+  .member-card p {
+    margin: 2px 0;
+    font-size: 14px;
+  }
+
+  .member-card a {
+    font-size: 14px;
+    color: blue;
+    text-decoration: none;
   }
 </style>
-```
 
-```{=html}
+
 <script>
   document.addEventListener("scroll", function () {
     const footer = document.querySelector("footer");
     const scrollHeight = document.documentElement.scrollHeight;
     const scrollPosition = window.innerHeight + window.scrollY;
 
-    // Check if the user has scrolled to the bottom
     if (scrollPosition >= scrollHeight) {
       footer.classList.add("show");
     } else {
@@ -46,86 +94,65 @@ toc: false
 </script>
 ```
 
-<footer>Chen Lab \| Westlake © 2025 Hangzhou, Zhejiang Province, China</footer>
-
 ## Principal Investigator
-
-::: {style="text-align: center;"}
-<img src="images/chong_chen.jpg" alt="Chong Chen" width="150" style="border-radius: 50%; margin-bottom: 5px;"/>
-
-<h3 style="margin: 0; font-size: 18px;">
-    Chong Chen (陈冲), M.D., Ph.D.
-</h3>
-
-<p style="margin: 3px 0 0 0; font-size: 16px; font-weight: normal;">
-    Assistant Professor
+```{=html}
+<div class="profile">
+  <img src="images/chong_chen.jpg" alt="Chong Chen" />
+<p><strong>Chong Chen (陈冲), M.D., Ph.D.</strong></p>
+<p style="margin: 0 0;">Assistant Professor</p>
+<p style="margin-top: 0; margin-bottom: 0;">
+  <a href="mailto:chenchong@westlake.edu.cn">chenchong@westlake.edu.cn</a>
 </p>
-
-<p style="margin: 5px 0 0 0; font-size: 16px;">
-    <a href="mailto:chenchong@westlake.edu.cn" style="text-decoration: none; color: blue;">
-        chenchong@westlake.edu.cn
-    </a>
-</p>
-
-<p style="margin: 0 0 0 0; font-size: 16px;">
-    <a href="files/CV_Chen_updated_01152025.pdf" style="text-decoration: none; color: blue;" download>
-        Download CV
-    </a>
-</p>
-:::
-
-<!-- Add new members' info below -->
-
+  <p><a href="files/CV_Chen_updated_07172025.pdf" download>Download CV</a></p>
+</div>
+```
 ## Team Members
 
-::: {style="text-align: center;"}
-<table style="border-collapse: collapse; width: 100%; border: none;">
-    <tr style="border: none;">
-        <td style="border: none; padding: 10px;">
-            <img src="images/zixuan.jpg" alt="Zixuan Zhuang" width="150" style="border-radius: 50%; margin-bottom: 10px;"/>
-        </td>
-        <td style="border: none; padding: 10px;">
-        <img src="images/Wenhui.jpg" alt="Wenhui" width="150" style="border-radius: 50%; margin-bottom: 10px;"/>
-        </td>
-        <td style="border: none; padding: 10px;">
-        <img src="images/Yangchan.jpg" alt="Yangchan" width="150" style="border-radius: 50%; margin-bottom: 10px;"/>
-        </td>
-    </tr>
-    <tr style="border: none;">
-        <td style="border: none; font-size: 18px; font-weight: bold;">Zixuan Zhuang (庄子璇)</td>
-        <td style="border: none; font-size: 18px; font-weight: bold;">Wenhui Tao (陶文慧) </td>
-        <td style="border: none; font-size: 18px; font-weight: bold;">Chan Yang (杨婵)</td>
-    </tr>
-    <tr style="border: none;">
-        <td style="border: none; font-size: 16px; font-weight: normal;">Administrative Assistant</td>
-        <td style="border: none; font-size: 16px; font-weight: normal;">Research Assistant</td>
-        <td style="border: none; font-size: 16px; font-weight: normal;">Research Assistant</td>
-    </tr>
-    <tr style="border: none;">
-        <td style="border: none; padding-top: 5px;">
-            <a href="mailto:zhuangzixuan@westlake.edu.cn" style="text-decoration: none; color: blue; font-size: 16px;">
-                zhuangzixuan@westlake.edu.cn
-            </a>
-        </td>
-        <td style="border: none; padding-top: 5px;">
-            <a href="mailto:taowenhui@westlake.edu.cn" style="text-decoration: none; color: blue; font-size: 16px;">
-                taowenhui@westlake.edu.cn
-            </a>
-        </td>
-        <td style="border: none; padding-top: 5px;">
-            <a href="mailto:yangchan72@westlake.edu.cn" style="text-decoration: none; color: blue; font-size: 16px;">
-                yangchan72@westlake.edu.cn
-            </a>
-          </td>
-    </tr>
-</table>
-:::
+```{=html}
+<div class="team-container">
 
+  <div class="member-card">
+    <img src="images/zixuan.jpg" alt="Zixuan Zhuang" />
+    <h4>Zixuan Zhuang (庄子璇)</h4>
+    <p>Administrative Assistant</p>
+    <p><a href="mailto:zhuangzixuan@westlake.edu.cn">zhuangzixuan@westlake.edu.cn</a></p>
+  </div>
 
+  <div class="member-card">
+    <img src="images/Wenhui.jpg" alt="Wenhui Tao" />
+    <h4>Wenhui Tao (陶文慧)</h4>
+    <p>Research Assistant</p>
+    <p><a href="mailto:taowenhui@westlake.edu.cn">taowenhui@westlake.edu.cn</a></p>
+  </div>
 
-<!--
-## PhD Students
+  <div class="member-card">
+    <img src="images/Yangchan.jpg" alt="Chan Yang" />
+    <h4>Chan Yang (杨婵)</h4>
+    <p>Research Assistant</p>
+    <p><a href="mailto:yangchan72@westlake.edu.cn">yangchan72@westlake.edu.cn</a></p>
+  </div>
 
-## Visiting students
--->
+  <div class="member-card">
+    <img src="images/Xiaowen1.jpg" alt="Xiaowenma" />
+    <h4>Xiaowen Ma (马小雯)</h4>
+    <p>Ph.D. Student</p>
+    <p><a href="mailto:maxiaowen@westlake.edu.cn">maxiaowen@westlake.edu.cn</a></p>
+  </div>
+  
+    <div class="member-card">
+    <img src="images/xinyu1.jpg" alt="Xinyu Fan" />
+    <h4>Xinyu Fan (樊欣雨)</h4>
+    <p>Research Assistant</p>
+    <p><a href="mailto:fanxinyu@westlake.edu.cn">fanxinyu@westlake.edu.cn</a></p>
+    </div>
+    
+     <div class="member-card">
+    <img src="images/Suxiu1.jpg" alt="Suxiu Zhang" />
+    <h4>Suxiu Zhang (章素秀)</h4>
+    <p>Visiting Student</p>
+    <p><a href="mailto:zhangsuxiu@westlake.edu.cn">zhangsuxiu@westlake.edu.cn</a></p>
+    </div>
+</div>
+```
 
+<footer>Chen Lab | Westlake © 2025 Hangzhou, Zhejiang Province, China</footer>

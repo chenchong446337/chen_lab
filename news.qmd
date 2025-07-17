@@ -5,25 +5,65 @@ toc: false
 
 ```{=html}
 <style>
+  footer {
+    position: fixed;
+    bottom: -50px;
+    left: 0;
+    width: 100%; /* Ensure the footer spans the entire page */
+    background-color: black;
+    text-align: left;
+    padding: 10px 0;
+    color: white;
+    font-size: 14px;
+    border-top: 1px solid rgba(0, 0, 0, 0.1);
+    transition: transform 0.5s ease-in-out;
+  }
+
   body {
-    background-image: url('images/borderless_blue.jpg');
-    background-size: cover;
-    background-repeat: no-repeat;
-    background-position: center;
+    margin: 0; /* Remove any default margin that might interfere */
+  }
+
+  footer.show {
+    transform: translateY(-50px); /* Bring footer into view */
   }
 </style>
 ```
 
-<footer style="background-color: transparent; text-align: left; padding: 10px 0; color: black; font-size: 14px; border-top: 1px solid rgba(0, 0, 0, 0.1);">
+```{=html}
+<script>
+  document.addEventListener("scroll", function () {
+    const footer = document.querySelector("footer");
+    const scrollHeight = document.documentElement.scrollHeight;
+    const scrollPosition = window.innerHeight + window.scrollY;
 
-Chen Lab \| Westlake © 2025 Hangzhou, Zhejiang Province, China
+    // Check if the user has scrolled to the bottom
+    if (scrollPosition >= scrollHeight) {
+      footer.classList.add("show");
+    } else {
+      footer.classList.remove("show");
+    }
+  });
+</script>
+```
 
-</footer>
+<footer>Chen Lab \| Westlake © 2025 Hangzhou, Zhejiang Province, China</footer>
 
 ## Lab News
 
 :::: {style="font-family: Arial, sans-serif; line-height: 1.6;"}
 ::: {style="border: 1px solid #ddd; padding: 15px; border-radius: 5px; background-color: #f9f9f9; margin-bottom: 10px;"}
+**📅 07.02.2025**\
+**Chong** participated in an interview about pain!\
+[🎧 Listen to the interview](https://www.xiaoyuzhoufm.com/episode/6867a1ef93fd2d72b8867edc?s=eyJ1IjogIjYwMWMxNWIzZTBmNWU3MjNiYmEwZDI3YiJ9)
+
+**📅 07.01.2025**\
+We are excited to welcome **Xinyu Fan** as our Research Assistant! <br> <!-- Adds a safe blank line --> ---
+
+**📅 06.27.2025**\
+We are excited to welcome **Xiaowen Ma** as our FIRST Ph.D. student! <br> <!-- Adds a safe blank line --> ---
+
+**📅 06.25.2025**\
+We are excited to welcome **Suxiu Zhang** as our visiting student! <br> <!-- Adds a safe blank line --> ---
 
 **📅 06.03.2025**\
 **Chong** officially joined Westlake School of Medicine to run the lab today. <br> <!-- Adds a safe blank line --> ---
