@@ -52,6 +52,10 @@ toc: false
 
 :::: {style="font-family: Arial, sans-serif; line-height: 1.6;"}
 ::: {style="border: 1px solid #ddd; padding: 15px; border-radius: 5px; background-color: #f9f9f9; margin-bottom: 10px;"}
+
+**📅 07.15.2025**\
+**Chong** officially joined Hangzhou First People’s Hospital! <br> <!-- Adds a safe blank line -->
+
 **📅 07.02.2025**\
 **Chong** participated in an interview about pain!\
 [🎧 Listen to the interview](https://www.xiaoyuzhoufm.com/episode/6867a1ef93fd2d72b8867edc?s=eyJ1IjogIjYwMWMxNWIzZTBmNWU3MjNiYmEwZDI3YiJ9)
