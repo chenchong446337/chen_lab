@@ -149,21 +149,20 @@ toc: false
     <p><a href="mailto:maxiaowen@westlake.edu.cn">maxiaowen@westlake.edu.cn</a></p>
   </div>
   
-    <div class="member-card">
+  <div class="member-card">
     <img src="images/xinyu1.jpg" alt="Xinyu Fan" />
     <h4>Xinyu Fan (樊欣雨)</h4>
     <p>Research Assistant</p>
     <p><a href="mailto:fanxinyu@westlake.edu.cn">fanxinyu@westlake.edu.cn</a></p>
-    </div>
+  </div>
     
-    <div class="member-card">
+  <div class="member-card">
     <img src="images/Ziyu.jpg" alt="Ziyu Zhou" />
     <h4>Ziyu Zhou (周子瑜)</h4>
     <p>Visiting Student</p>
     <p><a href="mailto:zhouziyu@westlake.edu.cn">zhouziyu@westlake.edu.cn</a></p>
-    </div>
+  </div>
     
-   
 </div>
 ```
 
