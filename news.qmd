@@ -53,6 +53,9 @@ toc: false
 :::: {style="font-family: Arial, sans-serif; line-height: 1.6;"}
 ::: {style="border: 1px solid #ddd; padding: 15px; border-radius: 5px; background-color: #f9f9f9; margin-bottom: 10px;"}
 
+**📅 08.07.2025**\
+We are excited to welcome **Ziyu Zhou** as our visiting student! <br> <!-- Adds a safe blank line -->
+
 **📅 07.15.2025**\
 **Chong** officially joined Hangzhou First People’s Hospital! <br> <!-- Adds a safe blank line -->
 
@@ -67,19 +70,19 @@ We are excited to welcome **Xinyu Fan** as our Research Assistant! <br> <!-- Add
 We are excited to welcome **Xiaowen Ma** as our FIRST Ph.D. student! <br> <!-- Adds a safe blank line -->
 
 **📅 06.25.2025**\
-We are excited to welcome **Suxiu Zhang** as our visiting student! <br> <!-- Adds a safe blank line --> 
+We are excited to welcome **Suxiu Zhang** as our visiting student! <br> <!-- Adds a safe blank line -->
 
 **📅 06.03.2025**\
-**Chong** officially joined Westlake School of Medicine to run the lab today. <br> <!-- Adds a safe blank line --> 
+**Chong** officially joined Westlake School of Medicine to run the lab today. <br> <!-- Adds a safe blank line -->
 
 **📅 03.11.2025**\
-We are excited to welcome **Wenhui Tao** and **Chan Yang** as our Research Assistant! <br> <!-- Adds a safe blank line --> 
+We are excited to welcome **Wenhui Tao** and **Chan Yang** as our Research Assistant! <br> <!-- Adds a safe blank line -->
 
 **📅 02.01.2025**\
-We are excited to welcome **Zixuan Zhuang** as our Administrative Assistant! <br> <!-- Adds a safe blank line --> 
+We are excited to welcome **Zixuan Zhuang** as our Administrative Assistant! <br> <!-- Adds a safe blank line -->
 
 **📅 12.11.2024**\
-Chong received **Publication of the Year Award** from the Department of Cell Biology & Physiology at UNC-Chapel Hill. <br> 
+Chong received **Publication of the Year Award** from the Department of Cell Biology & Physiology at UNC-Chapel Hill. <br>
 
 **📅 11.13.2024**\
 Chong has officially accepted an offer to join the School of Medicine at Westlake University as an Assistant Professor.
