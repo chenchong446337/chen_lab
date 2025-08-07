@@ -3,6 +3,7 @@ title: ""
 output: html_document
 toc: false
 ---
+
 ```{=html}
 <style>
   footer {
@@ -95,6 +96,7 @@ toc: false
 ```
 
 ## Principal Investigator
+
 ```{=html}
 <div class="profile">
   <img src="images/chong_chen.jpg" alt="Chong Chen" />
@@ -106,6 +108,7 @@ toc: false
   <p><a href="files/CV_Chen_updated_07172025.pdf" download>Download CV</a></p>
 </div>
 ```
+
 ## Team Members
 
 ```{=html}
@@ -153,8 +156,15 @@ toc: false
     <p><a href="mailto:fanxinyu@westlake.edu.cn">fanxinyu@westlake.edu.cn</a></p>
     </div>
     
+    <div class="member-card">
+    <img src="images/ziyu.jpg" alt="Ziyu Zhou" />
+    <h4>Ziyu Zhou (周子瑜)</h4>
+    <p>Visiting Student</p>
+    <p><a href="mailto:zhouziyu@westlake.edu.cn">zhouziyu@westlake.edu.cn</a></p>
+    </div>
+    
    
 </div>
 ```
 
-<footer>Chen Lab | Westlake © 2025 Hangzhou, Zhejiang Province, China</footer>
+<footer>Chen Lab \| Westlake © 2025 Hangzhou, Zhejiang Province, China</footer>
