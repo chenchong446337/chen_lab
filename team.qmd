@@ -143,7 +143,7 @@ toc: false
     </div>
     
   <div class="member-card">
-    <img src="images/Xiaowen1.jpg" alt="Xiaowenma" />
+    <img src="images/Xiaowen.jpg" alt="Xiaowenma" />
     <h4>Xiaowen Ma (马小雯)</h4>
     <p>Ph.D. Student</p>
     <p><a href="mailto:maxiaowen@westlake.edu.cn">maxiaowen@westlake.edu.cn</a></p>
@@ -162,6 +162,14 @@ toc: false
     <p>Visiting Student</p>
     <p><a href="mailto:zhouziyu@westlake.edu.cn">zhouziyu@westlake.edu.cn</a></p>
   </div>
+  
+  <div class="member-card">
+    <img src="images/Chengwei.jpg" alt="Chengwei Jin" />
+    <h4>Chengwei Jin (金城炜)</h4>
+    <p>Undergraduate Student</p>
+    <p><a href="mailto:jinchengwei@westlake.edu.cn">jinchengwei@westlake.edu.cn</a></p>
+  </div>
+  
     
 </div>
 ```
