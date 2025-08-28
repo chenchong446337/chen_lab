@@ -153,7 +153,7 @@ toc: false
     <img src="images/xinyu1.jpg" alt="Xinyu Fan" />
     <h4>Xinyu Fan (樊欣雨)</h4>
     <p>Research Assistant</p>
-    <p><a href="mailto:fanxinyu@westlake.edu.cn">fanxinyu@westlake.edu.cn</a></p>
+    <p><a href="mailto:fanxinyu@westlake.edu.cn">fanxinyu64@westlake.edu.cn</a></p>
   </div>
     
   <div class="member-card">
