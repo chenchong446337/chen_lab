@@ -155,13 +155,6 @@ toc: false
     <p>Research Assistant</p>
     <p><a href="mailto:fanxinyu@westlake.edu.cn">fanxinyu64@westlake.edu.cn</a></p>
   </div>
-    
-  <div class="member-card">
-    <img src="images/Ziyu2.jpg" alt="Ziyu Zhou" />
-    <h4>Ziyu Zhou (周子瑜)</h4>
-    <p>Visiting Student</p>
-    <p><a href="mailto:zhouziyu@westlake.edu.cn">zhouziyu@westlake.edu.cn</a></p>
-  </div>
   
   <div class="member-card">
     <img src="images/Chengwei.jpg" alt="Chengwei Jin" />

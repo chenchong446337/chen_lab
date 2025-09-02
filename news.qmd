@@ -58,8 +58,6 @@ toc: false
 **📅 08.18.2025**\
 We are excited to welcome **Chengwei Jin** as our Undergraduate student! <br> <!-- Adds a safe blank line -->
 
-**📅 08.07.2025**\
-We are excited to welcome **Ziyu Zhou** as our visiting student! <br> <!-- Adds a safe blank line -->
 
 **📅 07.15.2025**\
 **Chong** officially joined Hangzhou First People’s Hospital! <br> <!-- Adds a safe blank line -->
