@@ -52,6 +52,9 @@ toc: false
 
 :::: {style="font-family: Arial, sans-serif; line-height: 1.6;"}
 ::: {style="border: 1px solid #ddd; padding: 15px; border-radius: 5px; background-color: #f9f9f9; margin-bottom: 10px;"}
+**📅 09.19.2025**\
+ **Lab members attended the 30th Annual Meeting of the Chinese Society of Anesthesiology (CSA 2025). At the conference, Professor Chen delivered an excellent presentation as an invited speaker!**  <br> <!-- Adds a safe blank line -->
+
 **📅 08.28.2025**\
  **Congratulations on the grand opening of the Chen Lab!**  <br> <!-- Adds a safe blank line -->
 
