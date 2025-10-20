@@ -166,7 +166,7 @@ toc: false
     <div class="member-card">
     <img src="images/Yinxia.jpg" alt="yinxia Li" />
     <h4>Yinxia Li (李银霞)</h4>
-    <p>Research Assistant</p>
+    <p>Postdoctoral Fellow</p>
     <p><a href="mailto:liyinxia@westlake.edu.cn">liyinxia@westlake.edu.cn</a></p>
   </div>
     
