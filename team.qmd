@@ -171,12 +171,12 @@ toc: false
   </div>
      </div>
      
-      <!-- <div class="member-card"> -->
-  <!--   <img src="images/Xiaowen.jpg" alt="Xiaowen Ma" /> -->
-  <!--   <h4>Xiaowen Ma (马小雯)</h4> -->
-  <!--   <p>Ph.D. Student</p> -->
-  <!--   <p><a href="mailto:maxiaowen@westlake.edu.cn">maxiaowen@westlake.edu.cn</a></p> -->
-  <!-- </div> -->
+ <div class="member-card">
+    <img src="images/Xiaowen.jpg" alt="Xiaowen Ma" />
+    <h4>Xiaowen Ma (马小雯)</h4>
+    <p>Ph.D. Student</p>
+    <p><a href="mailto:maxiaowen@westlake.edu.cn">maxiaowen@westlake.edu.cn</a></p>
+  </div>
   
       <div class="member-card">
     <img src="images/zhouwei.jpg" alt="Zhouwei Wang" />
@@ -185,12 +185,12 @@ toc: false
     <p><a href="mailto:wangzhouwei@westlake.edu.cn">wangzhouwei@westlake.edu.cn</a></p>
   </div>
   
-    <!-- <div class="member-card"> -->
-  <!--   <img src="images/Yang Zhang.jpg" alt="Yang Zhang" /> -->
-  <!--   <h4>Yang Zhang (张杨)</h4> -->
-  <!--   <p>Ph.D. Student</p> -->
-  <!--   <p><a href="mailto:zhangyang23@westlake.edu.cn">zhangyang23@westlake.edu.cn</a></p> -->
-  <!-- </div> -->
+    <div class="member-card">
+    <img src="images/Yang Zhang.jpg" alt="Yang Zhang" />
+    <h4>Yang Zhang (张杨)</h4>
+    <p>Ph.D. Student</p>
+    <p><a href="mailto:zhangyang23@westlake.edu.cn">zhangyang23@westlake.edu.cn</a></p>
+  </div>
 </div>
 ```
 
