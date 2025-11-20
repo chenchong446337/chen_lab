@@ -170,6 +170,12 @@ toc: false
     <p><a href="mailto:liyinxia@westlake.edu.cn">liyinxia@westlake.edu.cn</a></p>
   </div>
     
+      <div class="member-card">
+    <img src="images/zhouwei.jpg" alt="Zhouwei Wang" />
+    <h4>Zhouwei Wang (王舟炜)</h4>
+    <p>Ph.D. Student</p>
+    <p><a href="mailto:wangzhouwei@westlake.edu.cn">wangzhouwei@westlake.edu.cn</a></p>
+  </div>
 </div>
 ```
 
