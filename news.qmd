@@ -52,6 +52,15 @@ toc: false
 
 :::: {style="font-family: Arial, sans-serif; line-height: 1.6;"}
 ::: {style="border: 1px solid #ddd; padding: 15px; border-radius: 5px; background-color: #f9f9f9; margin-bottom: 10px;"}
+**📅 11.18.2025**\
+We are excited to welcome **Zhouwei Wang** as our Ph.D. Student! <br> <!-- Adds a safe blank line -->
+
+**📅 11.18.2025**\
+We are excited to welcome **Yang Zhang** as our Ph.D. Student! <br> <!-- Adds a safe blank line -->
+
+**📅 11.18.2025**\
+We are excited to welcome **Xiaowen Ma** as our Ph.D. Student! <br> <!-- Adds a safe blank line -->
+
 **📅 10.14.2025**\
 We are excited to welcome **Yinxia Li** as our Postdoctoral Fellow! <br> <!-- Adds a safe blank line -->
 
