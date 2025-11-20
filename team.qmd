@@ -169,7 +169,6 @@ toc: false
     <p>Postdoctoral Fellow</p>
     <p><a href="mailto:liyinxia@westlake.edu.cn">liyinxia@westlake.edu.cn</a></p>
   </div>
-     </div>
      
 <div class="member-card">
     <img src="images/Xiaowen.jpg" alt="Xiaowen Ma" />
@@ -185,7 +184,6 @@ toc: false
     <p>Ph.D. Student</p>
     <p><a href="mailto:wangzhouwei@westlake.edu.cn">wangzhouwei@westlake.edu.cn</a></p>
   </div>
-     </div>
      
      <div class="member-card">
     <img src="images/Yang Zhang.jpg" alt="Yang Zhang" />
@@ -193,7 +191,6 @@ toc: false
     <p>Ph.D. Student</p>
     <p><a href="mailto:zhangyang23@westlake.edu.cn">zhangyang23@westlake.edu.cn</a></p>
   </div>
-     </div>
 </div>
 ```
 
