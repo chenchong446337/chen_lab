@@ -122,7 +122,7 @@ toc: false
   </div>
 
   <div class="member-card">
-    <img src="imagesWenhui.jpg" alt="Wenhui Tao" />
+    <img src="images/wenhui1.jpg" alt="Wenhui Tao" />
     <h4>Wenhui Tao (陶文慧)</h4>
     <p>Research Assistant</p>
     <p><a href="mailto:taowenhui@westlake.edu.cn">taowenhui@westlake.edu.cn</a></p>
@@ -157,21 +157,21 @@ toc: false
   </div>
   
   <div class="member-card">
-    <img src="images/chengwei.jpg" alt="Chengwei Jin" />
+    <img src="images/chengwei1.jpg" alt="Chengwei Jin" />
     <h4>Chengwei Jin (金城炜)</h4>
     <p>Undergraduate Student</p>
     <p><a href="mailto:jinchengwei@westlake.edu.cn">jinchengwei@westlake.edu.cn</a></p>
   </div>
   
     <div class="member-card">
-    <img src="images/yinxia.jpg" alt="yinxia Li" />
+    <img src="images/yinxia1.jpg" alt="yinxia Li" />
     <h4>Yinxia Li (李银霞)</h4>
     <p>Postdoctoral Fellow</p>
     <p><a href="mailto:liyinxia@westlake.edu.cn">liyinxia@westlake.edu.cn</a></p>
   </div>
      
 <div class="member-card">
-    <img src="images/xiaowen.jpg" alt="Xiaowen Ma" />
+    <img src="images/xiaowen1.jpg" alt="Xiaowen Ma" />
     <h4>Xiaowen Ma (马小雯)</h4>
     <p>Ph.D. Student</p>
     <p><a href="mailto:maxiaowen@westlake.edu.cn">maxiaowen@westlake.edu.cn</a></p>
