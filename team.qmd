@@ -134,13 +134,6 @@ toc: false
     <p>Research Assistant</p>
     <p><a href="mailto:yangchan72@westlake.edu.cn">yangchan72@westlake.edu.cn</a></p>
   </div>
-
- <div class="member-card">
-    <img src="images/suxiu.jpg" alt="Suxiu Zhang" />
-    <h4>Suxiu Zhang (章素秀)</h4>
-    <p>Visiting Student</p>
-    <p><a href="mailto:zhangsuxiu@westlake.edu.cn">zhangsuxiu@westlake.edu.cn</a></p>
-    </div>
     
   <!-- <div class="member-card"> -->
   <!--   <img src="images/xiaowen.jpg" alt="Xiaowenma" /> -->
