@@ -53,11 +53,14 @@ toc: false
 :::: {style="font-family: Arial, sans-serif; line-height: 1.6;"}
 ::: {style="border: 1px solid #ddd; padding: 15px; border-radius: 5px; background-color: #f9f9f9; margin-bottom: 10px;"}
 
+**📅 04.22.2026**\
+We are excited to welcome **Junting Ye** as our Visiting Student! <br> <!-- Adds a safe blank line -->
+
+**📅 04.15.2026**\
+Chen Lab invited Professor Sun Yangang from the Chinese Academy of Sciences to deliver a wonderful seminar titled Circuit mechanisms underlying functional roles of Amygdala in nociception！ <br> <!-- Adds a safe blank line -->
+
 **📅 12.05.2025**\
 We are excited to welcome **Tianzheng Wang** as our Visiting Student! <br> <!-- Adds a safe blank line -->
-
-**📅 11.18.2025**\
-We are excited to welcome **Zhouwei Wang** as our Ph.D. Student! <br> <!-- Adds a safe blank line -->
 
 **📅 11.18.2025**\
 We are excited to welcome **Yang Zhang** as our Ph.D. Student! <br> <!-- Adds a safe blank line -->
@@ -69,14 +72,13 @@ We are excited to welcome **Xiaowen Ma** as our Ph.D. Student! <br> <!-- Adds a 
 We are excited to welcome **Yinxia Li** as our Postdoctoral Fellow! <br> <!-- Adds a safe blank line -->
 
 **📅 09.19.2025**\
- Lab members attended the 30th Annual Meeting of the Chinese Society of Anesthesiology (CSA 2025). At the conference, Professor Chen delivered an excellent presentation as an invited speaker! <br> <!-- Adds a safe blank line -->
+Lab members attended the 30th Annual Meeting of the Chinese Society of Anesthesiology (CSA 2025). At the conference, Professor Chen delivered an excellent presentation as an invited speaker! <br> <!-- Adds a safe blank line -->
 
 **📅 08.28.2025**\
- **Congratulations on the grand opening of the Chen Lab!**  <br> <!-- Adds a safe blank line -->
+**Congratulations on the grand opening of the Chen Lab!** <br> <!-- Adds a safe blank line -->
 
 **📅 08.18.2025**\
 We are excited to welcome **Chengwei Jin** as our Undergraduate Student! <br> <!-- Adds a safe blank line -->
-
 
 **📅 07.15.2025**\
 **Chong** officially joined Hangzhou First People’s Hospital! <br> <!-- Adds a safe blank line -->
@@ -89,7 +91,8 @@ We are excited to welcome **Chengwei Jin** as our Undergraduate Student! <br> <!
 We are excited to welcome **Xinyu Fan** as our Research Assistant! <br> <!-- Adds a safe blank line -->
 
 <!-- **📅 06.27.2025**\ -->
-<!-- We are excited to welcome **Xiaowen Ma** as our FIRST Ph.D. student! <br> <!-- Adds a safe blank line --> 
+
+<!-- We are excited to welcome **Xiaowen Ma** as our FIRST Ph.D. student! <br> <!-- Adds a safe blank line -->
 
 **📅 06.25.2025**\
 We are excited to welcome **Suxiu Zhang** as our Visiting Student! <br> <!-- Adds a safe blank line -->
