@@ -183,8 +183,13 @@ toc: false
     <p>Ph.D. Student</p>
     <p><a href="mailto:wangzhouwei@westlake.edu.cn">wangzhouwei@westlake.edu.cn</a></p>
   </div>
-  
-    
+
+   <div class="member-card">
+    <img src="images/yejunting.jpg" alt="Junting Ye" />
+    <h4>Junting Ye (叶俊廷)</h4>
+    <p>Visiting Student</p>
+    <p><a href="mailto:yejunting@westlake.edu.cn">yejunting@westlake.edu.cn</a></p>
+  </div>
 ```
 
 <footer>Chen Lab \| Westlake © 2025 Hangzhou, Zhejiang Province, China</footer>
