@@ -52,6 +52,11 @@ toc: false
 
 :::: {style="font-family: Arial, sans-serif; line-height: 1.6;"}
 ::: {style="border: 1px solid #ddd; padding: 15px; border-radius: 5px; background-color: #f9f9f9; margin-bottom: 10px;"}
+**📅 06.08.2026**\
+We are excited to welcome **Longyan Ding** as our Research Assistant! <br> <!-- Adds a safe blank line -->
+
+**📅 06.01.2026**\
+We are excited to welcome **Zichang Lin** as our Visiting Student! <br> <!-- Adds a safe blank line -->
 
 **📅 04.22.2026**\
 We are excited to welcome **Junting Ye** as our Visiting Student! <br> <!-- Adds a safe blank line -->
