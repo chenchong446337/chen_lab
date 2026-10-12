@@ -133,7 +133,9 @@ We are grateful for the generous support from the following funding organization
 
 <p style="text-align: center;">
 
-\< img src="images/Two_signatures.png" alt="Westlake" style="height: 60px;"/\> \< img src="images/IARS.jpg" alt="IARS" style="height: 60px;"/\> \< img src="images/ZJNSF.jpg" alt="ZJNSF" style="height: 60px;"/\> \< img src="images/NSFC.png" alt="NSFC" style="height: 60px;"/\>
+<img src="images/Two_signatures.png" alt="Westlake" style="height: 60px;"/> <img src="images/IARS.jpg" alt="IARS" style="height: 60px;"/> <img src="images/ZJNSF.jpg" alt="ZJNSF" style="height: 60px;"/> <img src="images/NSFC.png" alt="NSFC" style="height: 60px;"/>
 
 </p>
+
+:::
 :::
